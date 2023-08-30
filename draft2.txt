@@ -1,65 +1,55 @@
-Foreward.
+ Foreward.
 
-When I first read about John B Calhoun's rat utopia experiments, my first thought was "Surely, we cannot be this
-predictable?"
-But every year since then, has only cemented my opinion of the experiment: as it stands, it forms a direct paral
-el with our own state as a species. There are certainly valid reasons to disagree with this comparision - for on
-, humans are not rats.
-But to my inexperienced and ill-educated eyes, these are just nitpicks; I can understand the automatic urge to r
-ject the idea that at the end of the day, we will die out exactly like rats in a perfect pen, and I can even res
-ect the particular, nuanced reasons this is not a good or fair comparision.
-But. There are undeniable parallels. Now, whether the story of the experiment can serve as a direct prophecy for
-our own ultimate fate, is an open question, but in my view, irrelevant. What is important is that there is suffi
-ient non-trivial correspondence between the Norway rats in Calhoun's enclosure, and homo sapiens in our own, and
-that there is some valuable idea that can be sucked out of it. To be sure, the applicability of his experiments 
-o humanity have been questioned, and his interpretations of his results have been criticized, but if it helps, you are free to consider it a pure fabrication - the ideas held within the story function just as well with a fict
-onal account. Nevertheless, if you have not heard of this experiment, here is a summary.
-An enclosure for Norway rats was built. They were supplied with unlimited food and water.
-It was expected that given no obvious impediments to their growth, the population would keep growing into the th
-usands over the course of about two years. Instead, across iterations, the experiment would invariably end with
-he opposite: the mice would breed rapidly initially, but soon the population would level off, then following by
-he rats breaking up into small cliques comprising of a dozen or so individuals; individual rats would develop ho
-tile, anti-social and sedentary habits, and eventually, the population would die out entirely.
-Among those iterations, was Universe 25. It had a nearly three square-meter enclosure, consisting of four pens w
-th two hundred and fifty-six living compartments, and sixteen burrows leading to abundant food and water supplies. Each living compartment could house up to fifteen individual rats, with an overall capacity of three thousand.
-A clean, comfortable enclosure with an endless supply of food and water, with no diseases or predators around, w
-s as close to luxury as a rat could ever get. Into this paradise, the experiment began with four pairs of health
- mice. The first hundred or so days were spent acclimating to their new surroundings, marking territory, and nes
-ing. Soon after, the rats began taking advantage of their resources, and breeding rapidly, with the population d
-ubling every two months. By the end of about a year, the enclosure contained over six hundred mice. And then bea
-n their decline. The number of rats at this point was about a fifth of what the enclosure could hold. And yet, m
-st rats seemed to prefer crowding in specific areas, sharing the same food sources. This constant huddling soon 
-ave way to a decline in mating activity, with the birth rate falling to about a third of its original level. Of 
-he rats in the enclosure at this point, a third emerged as socially dominant, with the other two-thirds showing 
-arked decline in social skills and status. Behavioral disparities among males of different social stature became
-more marked. Those individuals at the bottom of the social order found themselves spurned by females, and eventu
-lly abandoned trying to mate altogether. With no need to hunt and no mate, these rats had no function with their
-society. These outcasts would soon peel off the group entirely, eating and sleeping on their own, or fighting wi
-h other outcasts. The dominant males on the other hand, became more aggressive, often needlessly so, violently a
-tacking other individuals with no provocation or motive, indiscriminately raping other rats - irrespective of th
-ir sex. Most other males that comprised the middle of the social order, grew timid and passive, accepting violen
- attacks without protests, often dying in the process, even being cannibalized in several instances. With the ma
-es having abandoned (or been deprived of) their social functions, females were left to adopt male roles during t
-e rearing of pups. Consequently, some adopted more aggressive behaviour,  with their own young being the victims
-of this frequently. Others shirked their own functions as well, abandoning their own litter and withdrawing from
-mating activities. Infant mortality reached nearly ninety percent.
-About a year and a half into the experiment, the population started to decline. Infant mortality was now about a
-hundred percent. From these circumstances rose another social group, the rats that had reached maturity but had 
-rown up in extremely dysfunctional circumstances, and indeed, had never been exposed to a normal society with he
-lthy relationships. With no concept of, and interest in _normal_ social activities and interactions like mating
-r marking territory, this group spent all their waking time eating, drinking, and grooming themselves. These _be
-utiful ones_ as Calhoun called them, lived in seclusion. They avoided the anarchic social conditions by rejectin
- society itself.
-With every fundamental motivation that drives life having made irrelevant, no need to establish a territory or f
-nd a mate or raise young or hunt for food, these individuals found themselves in a society that had no need for 
-hem. Individuals were reduced to aimless, self-absorbed entities that did nothing, for there was nothing to do.
-The population eventually died out entirely.  Calhoun called this the second death _ the first was, in his view,
-the beginning of the end, the complete loss of purpose in the rats_ lives. He attempted to salvage this implosio
- by placing some of the _beautiful ones_ into new enclosures that had not fallen to the anarchic conditions of t
-eir own, hoping the change in circumstances might wake them from their anti-social catatonia. He failed. The rat
- simply would not change their behaviour. The eventually died out of natural causes, alone. 
+When I first read about John B Calhoun's rat utopia experiments, my first thought was "Surely, we cannot be this predictable?" But every 
+year since then, has only cemented my opinion of the experiment: as it stands, it forms a direct paral el with our own state as a species. 
+There are certainly valid reasons to disagree with this comparision - for on , humans are not rats. But to my inexperienced and 
+ill-educated eyes, these are just nitpicks; I can understand the automatic urge to r ject the idea that at the end of the day, we will die 
+out exactly like rats in a perfect pen, and I can even respect the particular, nuanced reasons this is not a good or fair comparision. 
+But. There are undeniable parallels. Now, whether the story of the experiment can serve as a direct prophecy for our own ultimate fate, is 
+an open question, but in my view, irrelevant. What is important is that there is sufficient non-trivial correspondence between the Norway 
+rats in Calhoun's enclosure, and homo sapiens in our own, and that there is some valuable idea that can be sucked out of it. To be sure, 
+the applicability of his experiments on humanity have been questioned, and his interpretations of his results have been criticized, but if 
+it helps, you are free to consider it a pure fabrication - the ideas held within the story function just as well with a fictonal account. 
+In any case, if you have not heard of this experiment, here is a summary.
 
-Universe 25 peaked at 2200 rats. None of them survived.
+
+An enclosure for Norway rats was built. They were supplied with unlimited food and water. It was expected that given no obvious 
+impediments to their growth, the population would keep growing into the th usands over the course of about two years. Instead, across 
+iterations, the experiment would invariably end with he opposite: the mice would breed rapidly initially, but soon the population would 
+level off, then following by he rats breaking up into small cliques comprising of a dozen or so individuals; individual rats would develop 
+ho tile, anti-social and sedentary habits, and eventually, the population would die out entirely. Among those iterations, was Universe 25. 
+It had a nearly three square-meter enclosure, consisting of four pens w th two hundred and fifty-six living compartments, and sixteen 
+burrows leading to abundant food and water supplies. Each living compartment could house up to fifteen individual rats, with an overall 
+capacity of three thousand. A clean, comfortable enclosure with an endless supply of food and water, with no diseases or predators around, 
+w s as close to luxury as a rat could ever get. Into this paradise, the experiment began with four pairs of health mice. The first hundred 
+or so days were spent acclimating to their new surroundings, marking territory, and nes ing. Soon after, the rats began taking advantage 
+of their resources, and breeding rapidly, with the population d ubling every two months. By the end of about a year, the enclosure 
+contained over six hundred mice. And then bea n their decline. The number of rats at this point was about a fifth of what the enclosure 
+could hold. And yet, m st rats seemed to prefer crowding in specific areas, sharing the same food sources. This constant huddling soon ave 
+way to a decline in mating activity, with the birth rate falling to about a third of its original level. Of he rats in the enclosure at 
+this point, a third emerged as socially dominant, with the other two-thirds showing arked decline in social skills and status. Behavioral 
+disparities among males of different social stature became more marked. Those individuals at the bottom of the social order found 
+themselves spurned by females, and eventu lly abandoned trying to mate altogether. With no need to hunt and no mate, these rats had no 
+function with their society. These outcasts would soon peel off the group entirely, eating and sleeping on their own, or fighting wi h 
+other outcasts. The dominant males on the other hand, became more aggressive, often needlessly so, violently a tacking other individuals 
+with no provocation or motive, indiscriminately raping other rats - irrespective of th ir sex. Most other males that comprised the middle 
+of the social order, grew timid and passive, accepting violen attacks without protests, often dying in the process, even being 
+cannibalized in several instances. With the ma es having abandoned (or been deprived of) their social functions, females were left to 
+adopt male roles during t e rearing of pups. Consequently, some adopted more aggressive behaviour, with their own young being the victims 
+of this frequently. Others shirked their own functions as well, abandoning their own litter and withdrawing from mating activities. Infant 
+mortality reached nearly ninety percent. About a year and a half into the experiment, the population started to decline. Infant mortality 
+was now about a hundred percent. From these circumstances rose another social group, the rats that had reached maturity but had rown up in 
+extremely dysfunctional circumstances, and indeed, had never been exposed to a normal society with he lthy relationships. With no concept 
+of, and interest in _normal_ social activities and interactions like mating r marking territory, this group spent all their waking time 
+eating, drinking, and grooming themselves. These _be utiful ones_ as Calhoun called them, lived in seclusion. They avoided the anarchic 
+social conditions by rejectin society itself. With every fundamental motivation that drives life having made irrelevant, no need to 
+establish a territory or f nd a mate or raise young or hunt for food, these individuals found themselves in a society that had no need for 
+hem. Individuals were reduced to aimless, self-absorbed entities that did nothing, for there was nothing to do. The population eventually 
+died out entirely.  Calhoun called this the second death _ the first was, in his view, the beginning of the end, the complete loss of 
+purpose in the rats_ lives. He attempted to salvage this implosio by placing some of the _beautiful ones_ into new enclosures that had not 
+fallen to the anarchic conditions of t eir own, hoping the change in circumstances might wake them from their anti-social catatonia. He 
+failed. The rat simply would not change their behaviour. They eventually died out of natural causes, alone. Universe 25 peaked at 2200 
+rats. None of them survived.
 
 The applicability of the above results as an unnervingly accurate metaphor for our own current state is obvious
 indeed, the only danger here is as usual, over-interpretation of simpel facts. After all, though world today re
@@ -71,7 +61,10 @@ ________________________________________________________________________________
 
 Introduction
 
-This book is a collection of my ideas on subjects I find interesting. The primary purpose behind this pointless undertaking is the near consensus that misinformation, junk science, combined with an aggressive will to believe in ideas for the sole purpose of pissing off political opponents, has overloaded our senses and left us absolutely unable to discern truth from fiction.
+This book is a collection of my ideas on subjects I find interesting.
+I want to explain why I am writing this book, but I am not a very good writer. 
+Let us start with our PRoblems. Consider the claim: Nearly all 
+The primary purpose behind this pointless undertaking is the consensus that misinformation, junk science, combined with an aggressive will to believe in ideas for the sole purpose of pissing off political opponents, has resulted in such a noisy, cacophonous view of the world that most of us are burnt out by noon. As I will describe later on, 'humans are creatures of habit' is not merely a pithy aphorism; we have evolved with predictability being the primary metric. Every sense we possess, and every instinct we act and react on, either serves to make our immediate surroundings or our own selves more predictable, or serves to makes us act in a way that does. This is a strange claim, but now is not the time for an explanation. The point is, the simple state of being constantly exposed to two equally convincing political philosophiesas, ovand left us absolutely unable to discern truth from fiction.
 
 I disagree. Finding truth may be difficult, but spotting nonsense is easy; the insistence otherwise is just self-consoling behavior - who wants to admit they are too stupid to spot a silly fabrication online? Surely, it must be an unbelievably sophisticated deception, funded by the bottomless treasure-chests of nation-states, subtle, nuanced, convoluted, a part of one conspiracy or the other, all for the express purpose of mind-control. Otherwise there is simply no way we could be fooled. 
 Obviously, that is nonsense. Our circumstances vis-a-vis (mis)information is a logical conclusion to centuries of deliberate, methodical suspension of disbelief, persistent efforts to dodge uncomfortable or inconvenient truths, and an inexplicable insistence on 'obedience'. Every effort we have made through history to deliberately suppress obvious facts, or deliberately promulgate obvious lies, with promise of eternal bliss and threats of eternal suffering, has 'trained' us in a way - ask yourself not why flat-earthers believe there is a global conspiracy to hide the shape of the earth, not why they go past the conspiracy into making such an easily falsifiable claim, nor why they insist on its truth inspite of being shown direct evidence otherwise. The only question that really matters is, at the precise moment when they went from the spheroidal earth to a flat one, how did they convince themselves? And asking this question makes the core issue quite clear; defensive arguments in a scientific confrontation aside, the fundamental problem here is the inability to make a correct judgement of the implications of a set of easily observed facts. In other words, I claim that generally, we have forgotten how to process information. Note that I say forgotten - the ease with which a person can be convinced that a fabricated statement is truth, increases with age, as the habit of formal learning atrophies. Our education places significant focus on information, which is misguided to begin with: the focus should always have been in teaching the 'ability' to learn, the ability to process information accurately, avoiding bad arguments, and maximizing one's chances of avoiding incorrect conclusions. 
@@ -92,6 +85,11 @@ I ask you: what is this supposed to achieve, exactly? What needs to be solved he
 
 4. I treat these pages as something between an indifferent bartender and a confession box. Further, I will be under the influence of various hallucinogens and stimulants throughout the course of this book. This means long, winding digressions in pursuit of some silly thread of an idea, but also shifts in mood, tone, and style, depending on the chemical effects my brain is experiencing in that moment. While this goes against every style-guide in existence, one, I do not care if anyone reads this at all, and two, this is how people function in real life, our moods, thought processes and interactions being influenced by everything we put inside us, everything that surrounds us, so we are slightly different people each day. Consequently, large sections of this book will be stupid, incorrect, offensive, and generally infuriating.
 
+5. Correctness is not the goal. Instead, the primary strategy will involve following threads of ideas, trying to minimize incorrectness locally, and see where things go. This is an important distinction. As a simple example, consider the statements 
+    1. Barack Obama has the best back-of-the-head of all American presidents. 
+    2. Barack Obama is a professional American. 
+The former could be "true" (I personally believe it is), but it is ultimately a matter of opinion. It doesn't matter how objective any analysis that proves statement 1 is, because the only counter it needs is "I disagree". On the other hand, the second statement is clearly factually incorrect, because being American is not a profession. However, that is also not the point of the statement, and any casual reader will likely see that, so it is not exactly incorrect either. Where statement 1 could be true but also not true depending on who you asked, statement 2 has a finite and forgiveable amount of disagreement with reality. So we will follow statement 2, taking it to mean exactly what it says.
+
 5. This book is not any of the following:
     - A new hypothesis/theory about anything.
     - A claim of having solved our Problems.
@@ -108,9 +106,18 @@ Getting started.
 
 Here is a question. What is stopping countries from agreeing on real action against climate change? 
 
-Resist any responsese forming in your mind, that resemble "it is an extremely complex question, with innumerable variables", and try to get to the heart of the question, which is as follows:
+Resist any responsese forming in your mind, that begin with "it is an extremely complex question, with innumerable variables", and try to get to the heart of the question, which is as follows:
 
-Given a global consensus (however misguided it may be in your view) from scientists and professionals, that the cumulative effects of industrialization and 'progress' over the past few centuries has put us on a straight and narrow path to catastrophic (and ongoing) deterioration of the environment, resources, food, water and air, especially considering the fact that cleaning up the environment is all benefits and no loss, irrespective of whether it results in 'saving humanity' or not, why are we more interested in practically every other trivial issue we can think of, than in ensuring our own long term survival?
+Given a global consensus (however misguided it may be in your view) among scientists and professionals, that the cumulative effects of industrialization and 'progress' over the past few centuries has put us on a straight and narrow path to catastrophic (and ongoing) deterioration of the environment, that is guaranteed to end with our own extinction, unless we take immediate and severe measures to fundamentally change "the way we do business" as humans - why are governments so stubbornly unwilling to move an inch beyond banal trumpery, even for reasons as pedestrian as the preference for a clean, green world bursting with life as your preferred God intended, over the gray, smoky empires of concrete, craft beer and mental illness we live in today?
+I grew up in a place situated within a rainforest; much of the area adjacent to the colony is now a tiger reserve. My first memories are of the stream behind my house, barely two feet across, but crystal clear water, ferns and mosses and lichen of untold age grown in solid mats along it. Where an average child today stares at a spinning toy until they fall asleep, I saw birds, animals, insects, none of which I could name; a leopard on a tree, elephants crossing the road to the town, a sudden dash of yellow and black far in the jungle, or was it just my imagination? I did go back a few years ago, after nearly 25 years of brief stays in various places each of which I liked less than the last, an unbelievable mix of potent emotions and events swimming in my head, from nostalgia, to trepidation, to the growling voice in my mind warning me against getting too hopeful. There was no stream. The mosses and ferns around it were gone, as was the jungle around them. This confused me for a brief moment; My memories of that place are all lush green and smell of rain, and dull green and brown during dry summers, but here was just bare rock, covered by what patches of soil the dead grass was still holding together. 
+I spent several days there. I remember the wildlife I saw in my childhood (things that blow a childs mind, especially things they have no evidence for, do not get forgotten), and I hoped I would finally identify a few of them with my adult intelligence and internet access, but I could find none. I could not even find a patch of land around my old home that looked like it could harbor life. I know atleast a few insects, maybe a bird or two, have vanished entirely. Was I the last to see one of those nameless extinct species? Was I the only one to notice them in that sleepy town where the jungle was not something special to be admired or studied, but merely a part of the background like the sky and the river? Was any of the life I was so fascinated by in my childhood, the last of its kind, the only interaction its species had ever had with a human being an uneventful encounter with a little boy transfixed by its mere existence? While I stood hypnotized by the deafening cacophony of every creature that lived in the jungle and could make a sound launching into tweets and screams and buzzes and flaps and barks and whines and squeals and rasps..was there the last of a nameless creature, roaming around, singing its pitiful song, hoping to attract a mate that will never come? The beetles under the bark, that kept peeling off and collecting in the little pockets where the branches meet the trunk, mixed with rain and birdshit and dead mosses and leaves, slowly turning into the most pristine soil imaginable, until a seed from entirely different species takes root in that little bit of soil, ferns and mosses on trees on trees, insects under the bark, in the heartwood, birds all over the canopy...a tree in a jungle is not just a tree.
+The point is, there is clear bias here, and I accept it. Humans typically do not appreciate things they have not had a chance to enjoy first, because that would make no sense. So I do understand not only why not everyone is passionate about nature, but also that indifference to 'nature' is a normal and rational response, the only one in the absence of any exposure of 'nature' that one might appreciate. Attenborough tried, but it just isn't the same.
+In any case, my personal bias notwithstanding, I can see absolutely no downside to preserving nature and species. Even beyond the merely sentimental reasons, there is a practical utilitarian benefit - our lives depend on the ecosystems that support us. This is not a matter of debate; as ecosystems collapse, so will we. One could comfortably take the most selfish position - pure personal benefit - and realize that food, water and air that will not give them cancer is worth any money one might lose. Put simply, I cannot even think of a silly reason not to protect nature and ecosystems. And therein lies the problem - protecting ecosystems is not nearly as urgent an issue as climate change is. It is true species are dropping off the roster every other day, but any species that has gone extinct actually has been beyond saving the day its population fell below the minimum viable population for that species. 
+Climate change on the other hand, was absolutely fixable when it first gained prominence in scientific and public discourse. And each generation born since, has watched much of the same laziness and stubbornly brainless ideologies about climate-change conspiracies enter government, and each generation has opened its eyes to a planet worse in practically every measurable globally-significant aspect. We watched as the easily fixable problem of the past, minute by minute, hour by hour, day by day, decade by decade, turned into a slightly tricky problem, then little by little, and then all at once, a very real existential crisis. 
+
+It does not matter what one thinks of the factual accuracy of the statements of climate change. If one believes building a bunker to shelter in in the unlikely event of a global nuclear war is a wise decision, or following one's chosen (or imposed) religion's tenets and commandments in order to avoid some kind of eternal hell is a good idea, it is obviously well-understood that it is sometimes better accept temporary inconvenience and transient costs in order to prepare for a problem before it becomes a crisis. the exact same arguments apply to climate change, but because the right people in the right positions are not making the right arguments, we find ourselves unable to agree on what can be quite easily read and understood by most people. can be easily applied to climate change with the same argument. It is strange there is such a significant overlap between bunker-builders and climate change deniers.
+
+Now. It.., I would imagine it should take some very strong and convincing reasons to reject the idea altogether as so many seem to with such ease. In fact, it is interesting to note that there is a fairly significant overlap between religious people and climate-change-deniers, because it is clearly not a matter of ability - a religious person can indeed accept otherwise unbelievable ideas based simply on a vague promise of heaven or a vague threat of hell. And yet, cleaning up the environment is where we draw the line. It should be axiomatic that food without bits of plastic in it is worse than food with bits of plastic in it; one should not need an explanation to accept that air without cancer-causing pollutants is better than air with cancer-causing pollutants, or that water without industrial chemicals is worse than water with industrial chemicals in it. One should not need a debate to settle whether dumping untreated effluents into the open ocean, and having those same chemicals end up back on our plates with the fish we caught there, is bad, or just a conspiracy to ruin the otherwise unstoppable suns of pure nuclear joy that our lives are in one way or another., resources, food, water and air, especially considering the fact that cleaning up the environment is all benefits and no loss, irrespective of whether it results in 'saving humanity' or not, why are we more interested in practically every other trivial issue we can think of, than in ensuring our own long term survival?
 
 It 
 Simultaneously, the most 'socially conscious' ones among us, the ones who have nobly accepted the thankless, backbreaking responsbility of leading humanity towards the light, a world where we can all be as we want to be, love who we want, live how we want, and preferably one where some sort of steady passive income has already been granted so they can focus their faculties on more important problems, are also some of the most active users of social media, with followers in the millions, gladly sucking in the pearls of 144-character wisdom that is periodically gifted ... what exactly is the carbon footprint of this inconsequential nonsense? How much energy do those 'inspirational quotes' cost to create, store, replicate, reproduce, and serve across the world, especially considering inspiration seems to be more reliably available when the quote is pasted onto a scenery and the whole thing turned into an image?
