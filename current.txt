@@ -43,13 +43,19 @@ Prerequisite information:
 
 This book is a collection of my ideas on subjects I find personally interesting. 
 
-1. I do not know of any single word to refer to the superset of all our problems, so I shall just refer to this superset as PRoblems, with a capital P AND a capital R. Problems includes everything: war, disease, poverty, 
-climate disasters and the apocalypse on the horizon, pedophilia, rape, hate, bigotry, partisan politics, idiotic politicians, senseless policies, retarded decisions at the highest levels of governance and industry, wars of 
-adventure or conquest, painfully stupid border disputes, entire generations being lost to social media, dying arts, species going extinct, crop failures, the sheer amount of energy spent every day to produce ‘content’, and 
-anything else I may have missed. Problems.
+1. I do not know of a word or phrase that refer to the superset of all our problems, so I shall just refer to this superset as PRoblems, with a capital P and a capital R. Problems includes everything: war, disease, poverty, 
+climate disasters, pedophilia, rape, hate, bigotry, , old, idiotic politicians, advertisers, wars of adventure or conquest, brainless border disputes, entire generations being lost to social media, dying arts, species going 
+extinct, crop failures, the sheer amount of energy spent every day to produce ‘content’, and anything else I may have missed. Problems.
 
-2. Very little research has gone into this book. One of the underlining motivations for this monumental expenditure of energy has been my belief that our apparent propensity for aggressively gravitating towards entirely 
-pointless social projects and the resulting negatives without commensurate benefits is not due to some fundamental stupidity to our species, but merely the symptoms of impending social breakdown similar to the observations in 
+2. Very little research has gone into this book. One of the underlining motivations for this monumental undertaking is the fact that nearly all of our PRoblems have been relinquished to experts, resulting in a scenario where the 
+    average layman not only has no hope of meaningfully contributing to a discussion on a subject they are not an expert in, they are, with increasing frequency, prohibited from doing so. In the last few years, the general 
+    obsession with being scientifically-minded has resulted in the formation of these self-appointed crusaders for science, whose sole duty is to go around reminding people they should not talk about things they do not 
+    understand, and instead should refer to experts in peer reviewed journals. Now, I do not argue this, in principle. In practice, howeber, I only need to make the following propositions:
+    a. There are known problems with academia. Some very serious. Some potentially capable of permanent damage to trust, like the Harvard behavioral science professor specializing in 'honesty' accused of academic dishonesty and fraud.
+
+    b. Knowledge is, in a sence, fractal. Like the coastline paradox, it is possible to build an infinite volume of information from a domain or topic of discussion, and much like the coastline, there is a point at which further depth becomes categorically pointless. Because every doctoral candidate must submit original research papers, every doctorate increases the size of the corpus of knowledge that this subject now cinsists of, and yet achieving nothing of any practical immportance. 
+One of the underlining motivations for this monumental expenditure of energy has been my belief that our apparent propensity for aggressively gravitating towards entirely pointless social projects and the resulting negatives 
+without commensurate benefits is not due to some fundamental stupidity to our species, but merely the symptoms of impending social breakdown similar to the observations in 
 Calhoun’s experiments. Further, in spite of a general belief that our Problems are extremely complex, or even require prolonged periods of academic study and consequently require similar study to have a qualified opinion at 
 all, I believe it is absolutely possible, and in fact easy, to atleast avoid being incorrect - if not exactly correct in the way social discourse around our Problems is undertaken. As part of this demonstration, I begin with 
 a deliberate informational handicap - and this means no research. I will write with exactly what I already know, the qualifications I possess and the experience I have, and no more. I do not know yet how this will turn out, 
