@@ -46,11 +46,15 @@ This book is a collection of my ideas on subjects I find personally interesting.
 
 1. I do not know of a word or phrase that refer to the superset of all our problems, so I shall just refer to them as PRoblems, with a capital P and a capital R. PRoblems includes everything: war, disease, poverty, hunger, climate change, habitat desctruction, species going extinct, advertisers, Content, social media, general mental retardation across the global political sphere manifesting in spellbindingly idiotic decisions, religious people, dying arts, vanishing languages, the true bound of Chinese territory according to China, the war on drugs, et cetera. PRoblems.
 
-2. Very little research has gone into this book. I will write with exactly what I already know and can recall while at the keyboard. This will result in obvious quality concerns,
+2. Very little research has gone into this book. For reasons I might explain later, I want to write as I am, as the average person is: good at a few things, passable at a few, shit at most other thing: a group rarely heard froms. This raises obvious quality-control concerns, but worse books have made people writers millionaires. 
 
 3. I treat these pages as something between a bartender and a confession box. This will often manifest as long, winding digressions in pursuit of some silly thread of an idea. Consequently, some, many, most, or all parts of this book will be either stupid, incorrect, offensive, or incoherent. 
 
-4. This book is not any of the following:
+4. There will be ideas I will need to refer to more than once across the book. In cases where this is not easily explained, I will make up a word, and this will be the stand-in for that idea for the rest of the book (which is 
+what a word is, I suppose). The definition will be in the dictionary at the end. If you like any of these made-up words, feel free to add them to your vocabulary. One day, I hope to see a headline: "Book-readers in town 
+develop sudden speech deficiencies, start speaking gibberish - medical experts baffled".
+
+5. This book is not any of the following:
     - A new hypothesis/theory about anything.
     - A claim of having solved our Problems.
     - A claim of having solutions to our Problems.
@@ -72,29 +76,37 @@ What is the point.
 There is a cause, and there is a reason. The reason is as you would expect: I believe I have some ideas worth charging money for.
 The cause is more complicated.
 
-Let us start with a question. Why can't countries agree on real action against climate change?
+Let us start with a question. 
 
-The politics do not interest me, nor should it you. Whether you believe climate change is a real crisis, or a conspiracy to hinder otherwise burgeoning growth and progress is really irrelevant: making sure we don't have plastic in the food we eat is an absolute good that needs no conditions or qualifications, and the fact that we have found microplastics in breastmilk is an absolute tragedy irrespective of your political stance. Making sure the air we breathe or the water we drink doesn't cause diseases is an absolute positive too, as is making sure animals don't go extinct because even a single absentee from an ecosystem can knock it wildly off balance. These are considerations that are valid and worthwhile even if the entire thing indeed is nonsense. In fact, climate change in itself is of little concern, it is precisely these inevitable, inescapable, unstoppable side-effects that will kill us. Surely it is possible to simply understand the need to ensure our own survival, and act accordingly while still believing climate change to be a silly hoax?
-If there is indeed a conspiracy to hinder progress, forcing us to clean up our environment is a  brainless way of doing so. Of course, conspiracy theorists are merely the easiest people to ridicule, but are 
-by no means the most dangerous (or the most common) of the unscientific, especially thanks to a new participant (let us name this personality type a Jope) characterised by some competence in a wildly unrelated subject, "come 
-here child and I shall show you the truth" rather than the usual "I disagree and you are a moron", a calm, composed, patronizing, almost grandfatherly demeanour, watching the outraged screams of a society that can't stand 
-itself. Importantly, the arguments from this character are rarely based in reality; indeed, much of the strategy employed by this time involves setting up a rhetorical framework that makes facts truly irrelevant, mere 
-circumstantial factoids that could be more important than the Real Truth. The insidious danger this treatment of reality poses should be obvious; as discourse becomes increasingly rhetorical, so must the remedial tactics. A 
-Jope's arguments tend to be vague, distant, avoiding specifics of any kind, insisting on a sort of 'meta' discussion, and emphasizing the The audience of science educators are exactly the people who do not need them, and the 
-ones who do avoid anyone, scientist or layperson, that tells them they are wrong, because such is our nature.. the facts of the matter are inconsequential. This means the remedy lies in rhetoric as well - no one cares about 
-your evidence. I see a certain latent hope in discussions on this subject, that seems to suggest this chronic inaction is merely a consequence of greed or corruption or stupidity, all solvable problems, in fact problems that 
-simply can be fixed by bringing in the right people into power, the consequent implication being that there is indeed a 'right' set of powerful people who will take action and solve the problem as simply as it deserves to be. 
-In other words, a typical treatment of the subject seems to insist it is ultimately a fixable problem - we only need to find people who will take there eyes off the cash for long enough. Well, what if it isn't a fixable 
-problem? What if the current StandardOperatingProcedure of blusterous, passionate declarations of a united front formed by nations, united by a crisis and a potential buck to be made; vows of Real Change, Real Action, honest 
-criticism directed at countries that aren't pulling their weight in the marketing and PR campaigns..what if all this is not merely a transient bug, merely a bad batch of idiot politicians that we must tolerate till their 
-terms (or lives) end? Their public faces, atleast, seem to generally agree we are running into a catastrophe with our eyes wide open. Certainly, a significant amount of time and resources go into even preparing the venues for 
-climate-conferences. An inconceivably large number of people are involved directly or indirectly in getting the leaders of all these nations into one room, from the security that shadows them to the housekeepers that prepare 
-their rooms, from the farmers that grow the fine produce that the finest chefs cook fine meals with for all these dignitaries. Gasoline and jet fuel is burnt to get them there, as is the coal that powers their rooms. The 
-finest wines from the finest grapes aged in the finest cellars, the finest tablecloths and cutlery and stationery and platoons of staff planning moves by the minute, armed guards and sniffer dogs and special services watching 
-every square inch. Every single quantum of every single resource spent in this entire charade paid for by nearly 8 billion people, working jobs, running businesses, trying to make ends meet - all with the implicit expectation 
-that once the doors close, the people in the room will get to work; if doing their jobs is a tall order, atleast acknowledge their own primal survival instinct, realize what is about to come, what scientists across the world 
-have been screaming about for decades, what politicians have been pledging to fix for decades. Even if it were pure self-interest, simply wanting to ensure their own comfort and survival for as long as possible, surely we 
-would see some tangible action? Nothing.
+Why can't countries agree on real action against climate change?
+
+The politics do not interest me, nor should it you. Further, any responses on the lines of "it is an extremely complex issue with a huge number of variables" have limited utility beyond consoling angry journalists at press 
+conferences. Whether you believe climate change is a real crisis, or a conspiracy to hinder otherwise explosive growth and progress is irrelevant: making sure we don't have plastic in the food we eat is an absolute good that 
+needs no conditions or qualifications, and the fact that we have found microplastics in breastmilk is an absolute tragedy irrespective of your political stance. Making sure the air we breathe or the water we drink doesn't 
+cause diseases is an absolute positive too, as is making sure animals don't go extinct because even a single absentee from an ecosystem can knock it wildly off balance. These are considerations that are valid and worthwhile 
+even if the entire thing indeed is nonsense. In fact, climate change, by itself is of little concern - if all it did was make everyone a little warmer, there would be no cause for concern. But it is precisely these 
+inevitable, inescapable side-effects that will kill us. Surely it is possible to simply understand the need to ensure our own survival, and act accordingly while still believing climate change to be a silly hoax?
+
+Nevertheless, if there is indeed a plot to hinder progress, demanding that we clean up our environment is about as cruel as being forced to accept a lifetime's supply of beer for free. Of course, conspiracy theorists are 
+merely the easiest people to ridicule, and are not nearly the most dangerous (or the most common) of the Incorrect Ones (henceforth referred to as incones)  especially thanks to a new participant (let us name this personality type a Jope) characterised by some 
+competence in a wildly unrelated subject, "come here child and I shall show you the truth" rather than the usual "I disagree and you are a moron", a calm, composed, patronizing, almost grandfatherly demeanour, watching the 
+outraged screams of a society that can't stand itself. Importantly, the arguments from this character are rarely based in reality; indeed, much of the strategy employed by this time involves setting up a rhetorical framework 
+that makes facts truly irrelevant, mere circumstantial factoids that could be more important than the Real Truth. The insidious danger this treatment of reality poses should be obvious; as discourse becomes increasingly 
+rhetorical, so must the remedial tactics. A Jope's arguments tend to be vague, distant, avoiding specifics of any kind, insisting on a sort of 'meta' discussion, and emphasizing the The audience of science educators are 
+exactly the people who do not need them, and the ones who do avoid anyone, scientist or layperson, that tells them they are wrong, because such is our nature.. the facts of the matter are inconsequential. This means the 
+remedy lies in rhetoric as well - no one cares about your evidence. I see a certain latent hope in discussions on this subject, that seems to suggest this chronic inaction is merely a consequence of greed or corruption or 
+stupidity, all solvable problems, in fact problems that simply can be fixed by bringing in the right people into power, the consequent implication being that there is indeed a 'right' set of powerful people who will take 
+action and solve the problem as simply as it deserves to be. In other words, a typical treatment of the subject seems to insist it is ultimately a fixable problem - we only need to find people who will take there eyes off the 
+cash for long enough. Well, what if it isn't a fixable problem? What if the current StandardOperatingProcedure of blusterous, passionate declarations of a united front formed by nations, united by a crisis and a potential 
+buck to be made; vows of Real Change, Real Action, honest criticism directed at countries that aren't pulling their weight in the marketing and PR campaigns..what if all this is not merely a transient bug, merely a bad batch 
+of idiot politicians that we must tolerate till their terms (or lives) end? Their public faces, atleast, seem to generally agree we are running into a catastrophe with our eyes wide open. Certainly, a significant amount of 
+time and resources go into even preparing the venues for climate-conferences. An inconceivably large number of people are involved directly or indirectly in getting the leaders of all these nations into one room, from the 
+security that shadows them to the housekeepers that prepare their rooms, from the farmers that grow the fine produce that the finest chefs cook fine meals with for all these dignitaries. Gasoline and jet fuel is burnt to get 
+them there, as is the coal that powers their rooms. The finest wines from the finest grapes aged in the finest cellars, the finest tablecloths and cutlery and stationery and platoons of staff planning moves by the minute, 
+armed guards and sniffer dogs and special services watching every square inch. Every single quantum of every single resource spent in this entire charade paid for by nearly 8 billion people, working jobs, running businesses, 
+trying to make ends meet - all with the implicit expectation that once the doors close, the people in the room will get to work; if doing their jobs is a tall order, atleast acknowledge their own primal survival instinct, 
+realize what is about to come, what scientists across the world have been screaming about for decades, what politicians have been pledging to fix for decades. Even if it were pure self-interest, simply wanting to ensure their 
+own comfort and survival for as long as possible, surely we would see some tangible action? Nothing.
 Reams of paperwork, extensive reports thousands of pages long, shock and awe and passionate speeches, furious fist pumping, sombre pledges for change, burlesque lamentations for the species that died away in the wake of our 
 spectaacular progress. But again, nothing.
 Well, politicians are useless, sure. They have been useless for a long time. Why should we expect any different? They come from among us. They represent us in more ways than just as an artifact of a political system; a 
