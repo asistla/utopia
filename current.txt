@@ -44,25 +44,29 @@ Prerequisite information:
 
 This book is a collection of my ideas on subjects I find personally interesting. 
 
-1. I do not know of a word or phrase that refer to the superset of all our problems, so I shall just refer to them as PRoblems, with a capital P and a capital R. PRoblems includes everything: war, disease, poverty, hunger, climate change, habitat desctruction, species going extinct, advertisers, Content, social media, general mental retardation across the global political sphere manifesting in spellbindingly idiotic decisions, religious people, dying arts, vanishing languages, the true bound of Chinese territory according to China, the war on drugs, et cetera. PRoblems.
+1. I do not know of a word or phrase that refer to the superset of all our problems, so I shall just refer to them as PRoblems, with a capital P and a capital R. PRoblems includes everything: war, disease, poverty, hunger, 
+climate change, habitat desctruction, species going extinct, advertisers, Content, social media, general mental retardation across the global political sphere manifesting in spellbindingly idiotic decisions, religious people, 
+dying arts, vanishing languages, the true bound of Chinese territory according to China, the war on drugs, et cetera. PRoblems.
 
-2. Very little research has gone into this book. For reasons I might explain later, I want to write as I am, as the average person is: good at a few things, passable at a few, shit at most other thing: a group rarely heard froms. This raises obvious quality-control concerns, but worse books have made people writers millionaires. 
+2. Very little research has gone into this book. For reasons I might explain later, I want to write as I am, as the average person is: good at a few things, passable at a few, shit at most other thing: a group rarely heard 
+from. Because I will be relying on facts from memory, they won't always be facts, though when this happens, it won't matter. Of course, all this raises obvious quality-control concerns, but worse books have made people 
+writers millionaires.
 
-3. I treat these pages as something between a bartender and a confession box. This will often manifest as long, winding digressions in pursuit of some silly thread of an idea. Consequently, some, many, most, or all parts of this book will be either stupid, incorrect, offensive, or incoherent. 
-
-4. There will be ideas I will need to refer to more than once across the book. In cases where this is not easily explained, I will make up a word, and this will be the stand-in for that idea for the rest of the book (which is 
+3. There will be ideas I will need to refer to more than once across the book. In cases where this is not easily explained, I will make up a word, and this will be the stand-in for that idea for the rest of the book (which is 
 what a word is, I suppose). The definition will be in the dictionary at the end. If you like any of these made-up words, feel free to add them to your vocabulary. One day, I hope to see a headline: "Book-readers in town 
 develop sudden speech deficiencies, start speaking gibberish - medical experts baffled".
 
-5. This book is not any of the following:
+4. This book is not any of the following:
     - A new hypothesis/theory about anything.
     - A claim of having solved our Problems.
     - A claim of having solutions to our Problems.
     - A claim of having access to information others do not. 
     - A claim of having had insights others have not. 
-   Most importantly, this is not a call to arms, violence, or revolution. If anything, it is a reminder that one doesn't need to be called.
-Do not read this book. 
+   Most importantly, this is not a call to arms, violence, or revolution. You should not need one.
 
+In summary, I am trying to produce an anti-book, existing in direct violation of every bit of conventional wisdom about writing. I have no confidence what this will do to an otherwise compelling narrative in my opinion - 
+"nothing good" would be my bet.
+Do not read this book.
 
 ____________________________________________________________________________________________________________________________________________________________________________________________________________________________________
 
@@ -71,9 +75,32 @@ ________________________________________________________________________________
 
 Introduction
 
-What is the point.
+Think of the amount of time, energy and resources that a little idea in my mind had to be fed, in order to put this book in your hands. Every page came from a tree that had to be killed, put to death, life extinguished, 
+turned from Life to 'wood', years of growth interrupted by the need for paper, whether to write on or wipe asses with. The energy came from the food I ate, food that has its own universe of a story before it ever reached my 
+plate. The journey started with a farmer somewhere, going to a government-run supply store for seeds to sow. Sometimes there are side-plots that spring up at this stage itself - a government employee in a bad mood, a farmer 
+burnt-out and sick of life, vague nods and suggestions of bribes, little people negotiating little financial crimes..sometimes. The farmer must take these seeds, and sow them on his land. What follows is several months of 
+extreme stress, as the clouds form but never rain, and the pests come and never leave, and the ground has been watered and crops have been harvested over and over and over so nothing grows without a solid dose of chemical 
+fertilizers first. When this suspenseful build-up finally cracks with either rains or a decimated crop, the farmer either has something to sell, or he hasn't. If he does, starts the next phase - predatory middlemen, logistics 
+providers, as their cartels negotiate rock bottom prices from farmers, whose only choice at this stage is to either make some money or make no money. The produce then goes to massive markets where it is auctioned off to the 
+higest bidders, the bidders being grocery store owners or roadside vegetable sellers. Once here, I go and purchase what I need, paying not just for the produce, but for the livelihoods of the farmers and middlemen and every 
+other parasite involved in this entire process. And then there is the carbon footprint of this chain, the secondary effects of over-fertilization and fertilizer runoff, slash-and-burn techniques, depleting groundwater 
+reserves, et cetera.
 
-There is a cause, and there is a reason. The reason is as you would expect: I believe I have some ideas worth charging money for.
+The point is, it took the consumption of a huge amount of resources, and the participation of huge number of people both well-qualified and "I have relatives in politics/organized crime", an economy under the the one on the 
+news where deals are done by finger signals inside interlocked fists, money flitting back and forth, a little above the table, the rest below, supplanted with surreptitious nods of understanding, a sort of "we are humans, you and I, and this is what we 
+must do to keep things moving". Some get rich, some don't, some earn better lives, others give up, and yet others simply die. This odyssey spanning thousands of miles, man-hours, bribes and tears, all to feed me, while I 
+wrote this.
+
+Which brings us to you. You will spend energy as you read this book, and like me, will require collaboration, conflict, and crime to move the food-machine that ultimately feeds you. The simple act of me writing a book, and 
+you reading, affects innumerable individuals both positively and negatively, and the planet always suffers for it, from the coal burnt for the electricity or gasoline for the transport, to the eutrophication of waterbodies 
+with fertilizer runoff killing off native species and allowing invaders to thrive. At this point, you have a simple choice - do you want to spend your energy on this book, or is it better spent elsewhere? This is an important 
+decision, and one you must take before you proceed further; the discussions that follow and the ideas held within, require a certain mindset to even follow to their logical conclusions. This is most certainly not a mere 
+recreational read. Crucially, if you have mental conditions that leave you prone to severe and debilitating despair, this is not for you. If you love your country, culture, or history, not because you have things to love 
+about them but because you have been taught this is the 'correct' sentiment to have, this is not for you. If you believe in absolute morality, or divinity, this is not for you. Simply put - unless you specifically want to 
+read half-developed ideas from an amateur, that will definitely confuse, frustrate, offend and infuriate - put this book down, and let us part as friends. If you are still reading, I must now describe the reasons for writing 
+this in the first place - obviously, given the effects described above, especially with the idiotic self-imposed handicaps, I must have a compelling reason to not just write, but to involve more nameless, faceless people 
+potentially from around the world in this ultimately pointless enterprise.
+There is a cause, and there is a reason. The reason is standard: I believe I have some ideas worth charging money for.
 The cause is more complicated.
 
 Let us start with a question. 
@@ -84,29 +111,71 @@ The politics do not interest me, nor should it you. Further, any responses on th
 conferences. Whether you believe climate change is a real crisis, or a conspiracy to hinder otherwise explosive growth and progress is irrelevant: making sure we don't have plastic in the food we eat is an absolute good that 
 needs no conditions or qualifications, and the fact that we have found microplastics in breastmilk is an absolute tragedy irrespective of your political stance. Making sure the air we breathe or the water we drink doesn't 
 cause diseases is an absolute positive too, as is making sure animals don't go extinct because even a single absentee from an ecosystem can knock it wildly off balance. These are considerations that are valid and worthwhile 
-even if the entire thing indeed is nonsense. In fact, climate change, by itself is of little concern - if all it did was make everyone a little warmer, there would be no cause for concern. But it is precisely these 
-inevitable, inescapable side-effects that will kill us. Surely it is possible to simply understand the need to ensure our own survival, and act accordingly while still believing climate change to be a silly hoax?
+even if the entire thing indeed is nonsense. In fact, climate change, by itself is of little concern - slightly warmer weather never killed anyone. But when it gets slightly warmer across the year, not only is there 'more' 
+water in the water cycle, more evaporation, transpiration and precipitation, but the changes in temperatures change how air moves, which decides the larger trends in wind speeds and directions, which determines who gets 
+rained on and who doesn't. The problem is not merely changes, but changes we cannot predict, effects we cannot anticipate and prepare for, and ultimately, conditions we cannot survive. It is precisely these inevitable, 
+inescapable side-effects that will kill us. 
+
+In addition, there is the aspect of responsiveness that I personally haven't seen being given the respect and attention it deserves. I describe this as follows:
+
+Imagine a small car on a flat, frictionless strip of road. Your task is to push this with your own strength, to the end of the road. Assuming the strength required, this is how it is expected to go: an initial force is 
+applied. The car does not budge. So you slowly increase the force being applied, until a critical point at which the car moves slightly, barely an inch; but the wheels have turned, and will continue to turn, because it is 
+only rolling friction. You wil find that once the car starts to move, it no longer needs the same amount of effort to keep moving. In particular, the more speed it picks up, the less effort is needed to keep it moving in the 
+same direction, as the cars own momentum is sufficient to take it a considerable distance.
+Let us say you have, after a period of strenous physical effort, managed to speed it up so much that you need to run to keep up with it.
+
+Now imagine the next task: to stop the car. 
+To do this, you need to first run past the car and ahead of it, and place yourself in its path. Then begins the same process that was needed to bring it up to speed in the first place: start with an initial force, and 
+increase it until you find a satisfactory rate of deceleration, and then just let it roll away, getting slower all the time, until it comes to a stop at some point. There are a few important observations to make here: 
+1. If the force you are applying to stop the car is no greater than the force you applied to get it moving, getting it to stop will take roughly the same time, energy, and distance rolled as it did to start.
+2. The amount of resources and energy required to stop the car increases the longer it has been accelerated for.
+3. A hypothetical universe-travelling car that has been accelerating for a thousand years through space, will take a thousand years to decelerate and come to a halt if the force trying to decelerate it is the same as the 
+force that was accelerating it.
+
+With absolutely no formal education in climate science, it is easy to atleast get a good picture of where things stand, vis-a-vis us, the planet, and the relationship we share. The above description is applicable nearly as is to climate change, and what it would take to reverse any damage our actions might have caused. The insidious danger here is exactly the fact that the effects are so slow, sporadic, and easy to attribute to other less human causes. 
+However, when one spends a moment to think about this, one can immediately see several obvious insights. Set aside the planet, climate change and Chinese conspiracies: if we abstract away all these details, and look at the most basic, absolute parts of the problem, we have two simple logical parts:
+    1. A "system". We do not care what it is or what's in it. This is what we are studying, and the topic of this discussion. (Obviously, this is the earth, but this detail is irrelevant.)
+    2. Us, the entities performing this 'experiment'. We know we exist. This is not a matter of contention, unless you deliberately go looking for places where it will be.
+We know the following to be true:
+    1. Whatever state of technological enlightenment we might be in as you read this, absolutely none of this would be possible without electricity and transportation, and therefore, fossil fuels.
+    2. Our early work with fossil fuels was rough, inefficient, and stupid - but ultimately extremely limited. In the centuries since, what we gained in efficiency, we lost several times over in scale - One million cars across the world running on burning plastic is not the same as one and a half billion efficient vehicles across the world with efficient engines burning 'clean' petroleum (excluding, of course, cargo ships burning refinery leftovers).
+
+Now, whether one believes in anthropogenic climate change or not, one simply needs to talk to farmers to be convinced that something definitely is changing, and that this did not start recently. Plants and their growing cycles are the result of millions of years of evolution under long periods of relatively stable conditions; as temperature and precipitation fluctuations  become erratic, the plants that depend on these changes to serve as triggers for their own changes, such as from vegetative growth to developing flowers and fruits, can no longer cope. This is especially true of wild species that do not have the advantage of our husbandry. Wild trees in particular tend to be quite tough, but without the right environmental triggers will simply never flower or fruit. Domesticated crops tend to be more delicate, having been primarily selected for productivity, and therefore lacking the unforgiving hand of natural selection to pick the toughest individuals to propagate and cull the rest, so the effects in farms can be anything from erratic fruiting seasons and weird, malformed fruit that received the instruction to start ripening before they could fully grow, to entire fields being wiped out because of rains that were late by a month. 
+because this immediately tells us two things:: the longer we spent pumping heat and greenhouse gases into the atmosphere, the longer it will take to bring it back to it's original, pristine state, if we stopped all new emissions and focussed all of our collective global intellect and formidable wealth into reversing this damage. The more fuels that are burned for this energy, the more fuels will be needed to create the energy needed to stop this car rolling away by its own momentum. 
+It is for this reason that international climate agreements, and the distant celebrations they seem to always involve, are actually far, far more useless than most realize; we are centuries past simply 'stopping' our generally destructive behavior; even if the entire planet decided to stop, it would make no difference without actively reversing our current damage. So any pledges of net-zero emissions fifty, twenty, even ten years into the future are worth less than the ink it took to print them out. Similarly, developing nations talking about a purported 'right to pollute' in order to reach some economic standard, simply do not know what we are faced with. In fact, one would be forgiven for simply giving up on life as they know it, and dedicate themselves to a life of debauchery, especially because doing so typically results in a massively reduced carbon-footprint (sex, drugs, rock and roll - very environmentally friendly pastimes) are not worth the cost of the photographers that photograph these events.
+If it isn't already clear: assuming we have been engaged in activities that (even if it wasn't the intention) were perfect for a species wanting to bring up the average surface temperature of the planet for a few centuries, it will take a few centuries to get back to normal, pre-industrial levels of temperature and atmospheric conditions.
+This means even if every emitter across the planet, from coal-fired power plants to cigarettes, were to be stopped immediately and permanently, the effects of our activities so far will continue to build - a planet-sized car will need a lot of time to get up to speed, but once it has, it will continue at its current state until it comes to a halt on its own - assuming there is atleast some effect providing a negative feedback. 
+
+Surely it is possible to simply understand the need to ensure our own survival, and act accordingly while still believing climate change to be a silly hoax? The politics do not 
+interest me, nor should it you. Further, any responses on the lines of "it is an extremely complex issue with a huge number of variables" have limited utility beyond consoling angry journalists at press conferences. Whether 
+you believe climate change is a real crisis, or a conspiracy to hinder otherwise explosive growth and progress is irrelevant: making sure we don't have plastic in the food we eat is an absolute good that needs no conditions 
+or qualifications, and the fact that we have found microplastics in breastmilk is an absolute tragedy irrespective of your political stance. Making sure the air we breathe or the water we drink doesn't cause diseases is an 
+absolute positive too, as is making sure animals don't go extinct because even a single absentee from an ecosystem can knock it wildly off balance. These are considerations that are valid and worthwhile even if the entire 
+thing indeed is nonsense. In fact, climate change, by itself is of little concern - slightly warmer weather never killed anyone. But when it gets slightly warmer across the year, not only is there 'more' water in the water 
+cycle, more evaporation, transpiration and precipitation, but the changes in temperatures change how air moves, which decides the larger trends in wind speeds and directions, which determines who gets rained on and who 
+doesn't. The problem is not merely changes, but changes we cannot predict, effects we cannot anticipate and prepare for, and ultimately, conditions we cannot survive. It is precisely these inevitable, inescapable side-effects 
+that will kill us. Surely it is possible to simply understand the need to ensure our own survival, and act accordingly while still believing climate change to be a silly hoax?
 
 Nevertheless, if there is indeed a plot to hinder progress, demanding that we clean up our environment is about as cruel as being forced to accept a lifetime's supply of beer for free. Of course, conspiracy theorists are 
-merely the easiest people to ridicule, and are not nearly the most dangerous (or the most common) of the Incorrect Ones (henceforth referred to as incones)  especially thanks to a new participant (let us name this personality type a Jope) characterised by some 
-competence in a wildly unrelated subject, "come here child and I shall show you the truth" rather than the usual "I disagree and you are a moron", a calm, composed, patronizing, almost grandfatherly demeanour, watching the 
-outraged screams of a society that can't stand itself. Importantly, the arguments from this character are rarely based in reality; indeed, much of the strategy employed by this time involves setting up a rhetorical framework 
-that makes facts truly irrelevant, mere circumstantial factoids that could be more important than the Real Truth. The insidious danger this treatment of reality poses should be obvious; as discourse becomes increasingly 
-rhetorical, so must the remedial tactics. A Jope's arguments tend to be vague, distant, avoiding specifics of any kind, insisting on a sort of 'meta' discussion, and emphasizing the The audience of science educators are 
-exactly the people who do not need them, and the ones who do avoid anyone, scientist or layperson, that tells them they are wrong, because such is our nature.. the facts of the matter are inconsequential. This means the 
-remedy lies in rhetoric as well - no one cares about your evidence. I see a certain latent hope in discussions on this subject, that seems to suggest this chronic inaction is merely a consequence of greed or corruption or 
-stupidity, all solvable problems, in fact problems that simply can be fixed by bringing in the right people into power, the consequent implication being that there is indeed a 'right' set of powerful people who will take 
-action and solve the problem as simply as it deserves to be. In other words, a typical treatment of the subject seems to insist it is ultimately a fixable problem - we only need to find people who will take there eyes off the 
-cash for long enough. Well, what if it isn't a fixable problem? What if the current StandardOperatingProcedure of blusterous, passionate declarations of a united front formed by nations, united by a crisis and a potential 
-buck to be made; vows of Real Change, Real Action, honest criticism directed at countries that aren't pulling their weight in the marketing and PR campaigns..what if all this is not merely a transient bug, merely a bad batch 
-of idiot politicians that we must tolerate till their terms (or lives) end? Their public faces, atleast, seem to generally agree we are running into a catastrophe with our eyes wide open. Certainly, a significant amount of 
-time and resources go into even preparing the venues for climate-conferences. An inconceivably large number of people are involved directly or indirectly in getting the leaders of all these nations into one room, from the 
-security that shadows them to the housekeepers that prepare their rooms, from the farmers that grow the fine produce that the finest chefs cook fine meals with for all these dignitaries. Gasoline and jet fuel is burnt to get 
-them there, as is the coal that powers their rooms. The finest wines from the finest grapes aged in the finest cellars, the finest tablecloths and cutlery and stationery and platoons of staff planning moves by the minute, 
-armed guards and sniffer dogs and special services watching every square inch. Every single quantum of every single resource spent in this entire charade paid for by nearly 8 billion people, working jobs, running businesses, 
-trying to make ends meet - all with the implicit expectation that once the doors close, the people in the room will get to work; if doing their jobs is a tall order, atleast acknowledge their own primal survival instinct, 
-realize what is about to come, what scientists across the world have been screaming about for decades, what politicians have been pledging to fix for decades. Even if it were pure self-interest, simply wanting to ensure their 
-own comfort and survival for as long as possible, surely we would see some tangible action? Nothing.
+merely the easiest people to ridicule, and are not nearly the most dangerous (or the most common) of the Incorrect Ones (henceforth referred to as incones) especially thanks to a new participant (let us name this personality 
+type a Jope) characterised by some competence in a wildly unrelated subject, "come here child and I shall show you the truth" rather than the usual "I disagree and you are a moron", a calm, composed, patronizing, almost 
+grandfatherly demeanour, watching the outraged screams of a society that can't stand itself. Importantly, the arguments from this character are rarely based in reality; indeed, much of the strategy employed by this time 
+involves setting up a rhetorical framework that makes facts truly irrelevant, mere circumstantial factoids that could be more important than the Real Truth. The insidious danger this treatment of reality poses should be 
+obvious; as discourse becomes increasingly rhetorical, so must the remedial tactics. A Jope's arguments tend to be vague, distant, avoiding specifics of any kind, insisting on a sort of 'meta' discussion, and emphasizing the 
+The audience of science educators are exactly the people who do not need them, and the ones who do avoid anyone, scientist or layperson, that tells them they are wrong, because such is our nature.. the facts of the matter are 
+inconsequential. This means the remedy lies in rhetoric as well - no one cares about your evidence. I see a certain latent hope in discussions on this subject, that seems to suggest this chronic inaction is merely a 
+consequence of greed or corruption or stupidity, all solvable problems, in fact problems that simply can be fixed by bringing in the right people into power, the consequent implication being that there is indeed a 'right' set 
+of powerful people who will take action and solve the problem as simply as it deserves to be. In other words, a typical treatment of the subject seems to insist it is ultimately a fixable problem - we only need to find people 
+who will take there eyes off the cash for long enough. Well, what if it isn't a fixable problem? What if the current StandardOperatingProcedure of blusterous, passionate declarations of a united front formed by nations, 
+united by a crisis and a potential buck to be made; vows of Real Change, Real Action, honest criticism directed at countries that aren't pulling their weight in the marketing and PR campaigns..what if all this is not merely a 
+transient bug, merely a bad batch of idiot politicians that we must tolerate till their terms (or lives) end? Their public faces, atleast, seem to generally agree we are running into a catastrophe with our eyes wide open. 
+Certainly, a significant amount of time and resources go into even preparing the venues for climate-conferences. An inconceivably large number of people are involved directly or indirectly in getting the leaders of all these 
+nations into one room, from the security that shadows them to the housekeepers that prepare their rooms, from the farmers that grow the fine produce that the finest chefs cook fine meals with for all these dignitaries. 
+Gasoline and jet fuel is burnt to get them there, as is the coal that powers their rooms. The finest wines from the finest grapes aged in the finest cellars, the finest tablecloths and cutlery and stationery and platoons of 
+staff planning moves by the minute, armed guards and sniffer dogs and special services watching every square inch. Every single quantum of every single resource spent in this entire charade paid for by nearly 8 billion 
+people, working jobs, running businesses, trying to make ends meet - all with the implicit expectation that once the doors close, the people in the room will get to work; if doing their jobs is a tall order, atleast 
+acknowledge their own primal survival instinct, realize what is about to come, what scientists across the world have been screaming about for decades, what politicians have been pledging to fix for decades. Even if it were 
+pure self-interest, simply wanting to ensure their own comfort and survival for as long as possible, surely we would see some tangible action? Nothing.
 Reams of paperwork, extensive reports thousands of pages long, shock and awe and passionate speeches, furious fist pumping, sombre pledges for change, burlesque lamentations for the species that died away in the wake of our 
 spectaacular progress. But again, nothing.
 Well, politicians are useless, sure. They have been useless for a long time. Why should we expect any different? They come from among us. They represent us in more ways than just as an artifact of a political system; a 
