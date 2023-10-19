@@ -1,0 +1,91 @@
+The problem of consciousness has been open for atleast a few thousand years. 
+While there have been many promising approaches, as a whole, any real insight evades us. In fact, our problems
+are significantly more severe; we have not yet been able to agree on a definition for consciousness, nor do we
+have a reliable and universally applicable test for consciousness. The recent media frenzy about language models
+'developing consciousness' has served as a grim reminder of the fact that for the vast majority of people, there
+is little difference between true consciousness, and a convincing pretense of it.
+
+In my personal and extremely unqualified view, this is unbecoming of a species that sent a space probe 
+currently in 'deep space' fifty years ago, and there is a certain humiliating irony in the fact that 
+while we have directly observed black holes, gravitational waves, and the mind-bending physics of the 
+quantum scale, and yet our ability to completely describe our own internal experience, even our own 
+perception of ourselves, remains far beyond reach, with current treatments and analyses relying on higher 
+level abstractions and the overall functional behavior even if we do not know why these behaviors arise.
+
+
+In an attempt to help drag us out of this rut, I propose a wholly unqualified opinion, and an exploration 
+of the consequences and implications of this treatment of consciousness. This is not meant to be a theory 
+of consciousness, or even a formal claim of having explained one of more aspects of it. This is meant to 
+be the planks laid in the tyre-tracks so we can drive our way towards an explanation, merely an 
+alternative avenue that I claim is sufficiently consistent to warrant analysis by more competent minds.
+
+1. What are we dealing with?
+
+We are trying to come up with a view of consciousness that is internally consistent, consistent with all 
+ our observations and experiences, and hopefully makes predictions that can be tested. Now, in its 
+ simplest and most accurate definition, sight is the perception of light in our surroundings. We know how 
+ this works; lenses focus ambient light onto the retina, which then sends electrical impulses into the 
+ brain. The specifics of this process are irrelevant; all we are concerned with is the fact that we can 
+ trace a purely physical process of perception until it reaches the brain, at which point, by 'some 
+ magic', this perception becomes available as internalized information, even if transient. Crucially, note 
+that the conscious perception of our surroundings, visual or otherwise, is not actually a perception of our 
+surroundings, but instead the culmination of a rather elaborate and complex calculation involving the 
+brain's past experiences, memories of the sensory cues surrounding those experiences, the results of any 
+interactions with these surroundings, which is then used to create a nearly unfailingly accurate 'guess' 
+of the most likely cause of the particular set of sensory inputs. 
+In particular, note that the moment the light hits the retina, or sound hits the eardrum, and turns into 
+an electrical impulse, we are for all intents and purposes, detached from reality; we must navigate our 
+universe relying exclusively on the stories our brain makes up. In fact, this reality is not even 
+'directly' available to the brain, which must make do with the electrical impulses which are not nearly 
+'consistent' enough to serve as a reliable signal. (Exactly identical images do not result in exactly 
+identical retinal impulses). Further, also note that it is not sufficient for the sensory organs to simply
+deliver these impulses to the brain, or even the brain receiving these impulses correctly; any perception
+of reality must necessarily be supplanted with the brain's guess.
+We can track this extreme separation of function to the immediate next 'level'; the picture of reality 
+that the brain makes up are entirely independent of consciousness itself, which we have defined as the 
+awareness of our internal state. If we look at this from the other side, we know the brain has invented 
+some picture of our reality based on the cues it has received from our sensory organs. There must be a way
+for our conscious self to actually have perceived this picture.
+This, is consciousness. Consciousness is effectively a 'software' sensory organ that connects what the brain
+does to what is 'known' as information; the conscious perception of a self is merely the 'knower' invented
+to facilitate this process. This might sound convoluted, but to start with, we can definitely say the brain is
+'capable' of inventing this subjective self, so raw processing-power is no concern. Further, we know that not
+only is the brain capable of elaborate constructions, it is in fact capable of elaborate abstract constructions
+outside of reality; imagination presents with a 'mind's' eye for most people, suggesting the brain can also
+merely pretend like the neural impulses requiered for its construction of the moment, and involve the 
+'perception' of a picture of a reality that does not exist. This 
+there is no short-circuit between the senses and our conscious perception of them, but 
+ instead an elaboraThis is a known phenomenon; the perception of the world around us is not necessarily 
+ an accurate depiction of what is, but instead the brain's claim of what it believes to be the most 
+ likely cause of the electrical impulses it has received from the sensory organs. Consider the following:
+
+Sight is the perception of the light in our surroundings. 
+
+One simplification 
+ we can immediately make confidently, is to separate out consciousness from the constellation of 
+ capabilities, behaviors and qualities that are entirely unrelated to the phenomenon of 'awareness of an 
+ internal experience' itself. For example, instrospection is not a property of consciousness, but instead 
+ the but instead, our intelligence, analytical, linguistic, and imaginative capabilities applied in tandem to 
+ our own selves, using consciousness, the 'awareness of our internal state' as an instrument to measure 
+ our internal condition.
+ capabilities applied to this internal state.
+
+
+athe awareness of our internal state, with intelligence, analytical capabilities and language applied to this internal state. 
+ We do 
+not want to attach more properties to our view of consciousness unless we need to, because the larger the 
+circle around what we consider consciousness, the harder it is to explain all its myriad aspects. So how 
+simply can we define consciousness, while preserving all properties that are commonly considered part of 
+it? A very good candidate is simply "awareness of our internal state". This definition is vague, and 
+leaves the burden of defining what 'awareness' is, and what constitutes an 'internal state'; but with a 
+strictly colloqual reading, this is an accurate, if incomplete description of what most would agree 
+constitutes consciousness. 
+One might be tempted to get right to defining 'awareness', and 'internal states'. This is, in my view, 
+the precise step where a relatively simply problem blows up into the monstrous intractable question that 
+has tortured our collective minds for millennia; this mystery has created religions and killed billions. So we shall avoid it.
+
+Consider the following: Sight is commonly defined as the power of seeing, a tautological definition
+KConsider this definition as is: "Consciousness is our awareness of our internal state".
+Compare this to: "Sight is the awareness of the light in our surroundings". 
+
+
