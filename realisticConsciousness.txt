@@ -33,14 +33,20 @@ surroundings, but instead the culmination of a rather elaborate and complex calc
 brain's past experiences, memories of the sensory cues surrounding those experiences, the results of any 
 interactions with these surroundings, which is then used to create a nearly unfailingly accurate 'guess' 
 of the most likely cause of the particular set of sensory inputs. 
-In particular, note that the moment the light hits the retina, or sound hits the eardrum, and turns into 
-an electrical impulse, we are for all intents and purposes, detached from reality; we must navigate our 
-universe relying exclusively on the stories our brain makes up. In fact, this reality is not even 
-'directly' available to the brain, which must make do with the electrical impulses which are not nearly 
-'consistent' enough to serve as a reliable signal. (Exactly identical images do not result in exactly 
-identical retinal impulses). Further, also note that it is not sufficient for the sensory organs to simply
-deliver these impulses to the brain, or even the brain receiving these impulses correctly; any perception
-of reality must necessarily be supplanted with the brain's guess.
+
+In particular, note that the moment the light hits the retina, or sound hits the eardrum, or any other 
+stimulus turns into an electrical impulse, we are for all intents and purposes, detached from reality; we 
+must navigate our universe relying exclusively on the stories our brain makes up. In fact, this reality 
+is not even 'directly' available to the brain, which must make do with the electrical impulses which are 
+not nearly 'consistent' enough to serve as a reliable signal. (Exactly identical images do not result in 
+exactly identical retinal impulses). Further, also note that it is not sufficient for the sensory organs 
+to simply deliver these impulses to the brain, or even the brain receiving these impulses correctly.
+Put simply, 'I' do not perceive reality, I only perceive the picture my brain creates. We can see a promising
+lead forming here: perception requires sensory organs, so like external light requires eyes, and the brain requires neural impulses, the picture of reality the brain has created must also require a sensory organ.
+
+This, I claim, is all consciousness. Effectively a 'software' sensory organ, the exclusive purpose of consciousness
+is to perceive the internal state of the brain through 'some' abstractions.
+
 We can track this extreme separation of function to the immediate next 'level'; the picture of reality 
 that the brain makes up are entirely independent of consciousness itself, which we have defined as the 
 awareness of our internal state. If we look at this from the other side, we know the brain has invented 
