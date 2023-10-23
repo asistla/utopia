@@ -1,4 +1,40 @@
 The problem of consciousness has been open for atleast a few thousand years. 
+Recent years have seen some truly astounding breakthroughs in understanding the brain and its function, 
+as well as great steps in our understanding of how its physical function gives rise to particular 
+subjective experiences. However, the ultimate barrier remains unscathed- the line between what the brain 
+does, and what happens to us.
+
+This is frustrating, and a little humiliating, but also, and crucially, dangerous; our inability to understand
+and explain such a basic and ubiquitous part of the experience of being human, arguably our paramount purpose
+as a species, has seen entire cultures rise around particular interpretations of it.
+
+Simultaneously, the recent media frenzy around large language models, and the subsequent debates about 
+the likelihood of LLMs, or AI in generally, suddenly become conscious, as sentient requires 
+consciousness, have shown that we are also quite willing, in general, to substantially diminish the 
+definition of consciousness itself in order to make AI fit the definition. Of course, this is as 
+worthless as those that simply reject the premise as altogether impossible; after all, the definition of 
+consciousness, as with any other word in any other language, is simply a matter of consensus. 
+Unfortunately, there is no consensus on what it actually is, or what it feels like, or how it behaves, as 
+it changes from person to person, or maybe just their perception of it, but perception itself ultimately 
+relies on consciousness to make the information 'known' as opposed to just being available.. if there is a productive approach here, I cannot find it.
+
+Finally, there is the simple matter of defining the problem well. The hard problem of consciousness, in 
+my view, is hard precisely because of how ambitiously its jurisdiction is assumed, and how overbroad the 
+problem is made to be. Suppose I wanted to explain flames. I know the physical basis of a flame; the 
+volatiles and combustible particulates burn in atmospheric oxygen creating a stream of gas that is hot 
+enough to glow in the visible range. However, my subjective experience of direct physical interactions 
+involving contact, is invariably of painful burns. In fact, it doesn't matter what is burnt and what the 
+flame looks like, or whether it even is visible - if I touch it, it will burn me. 
+However, the fact that all our direct physical interactions with a flame result in painful burns, does not make
+
+We can see the rough 
+contours of an analogy forming here. We understand the physics and chemistry of a flame, and then there 
+is a gap, and then there is the subjective experience of it. This gap is not entirely empty; we know 
+there are physical processes that are fairly well understood. At the area near the burn, nociceptors 
+start firing off chemical signals to the message neurons, which then pass them over time to the brain or spine.
+At this point, 'something' happens that involves our consciousness, our subjective sense of self, language,
+memory, and a whole lot else, which leads to a painful burn and an "oh FUCK".
+
 While there have been many promising approaches, as a whole, any real insight evades us. In fact, our problems
 are significantly more severe; we have not yet been able to agree on a definition for consciousness, nor do we
 have a reliable and universally applicable test for consciousness. The recent media frenzy about language models
