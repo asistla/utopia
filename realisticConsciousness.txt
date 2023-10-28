@@ -1,87 +1,115 @@
-The problem of consciousness has been open for atleast a few thousand years. 
-Recent years have seen some truly astounding breakthroughs in understanding the brain and its function, 
-as well as great steps in our understanding of how its physical function gives rise to particular 
-subjective experiences. However, the ultimate barrier remains unscathed- the line between what the brain 
-does, and what happens to us.
+The problem of consciousness has been open for atleast a few thousand years. Recent years have seen some truly astounding breakthroughs in understanding the brain and its function, as well as great steps in our understanding 
+of how its physical function gives rise to particular subjective experiences, but the moat between what the brain does, and what happens because of it, remains unscathed. This is frustrating, and a little humiliating, but 
+also, and crucially, dangerous; our inability to understand and explain such a basic and ubiquitous part of the experience of being human, arguably our paramount purpose as a species, has seen entire cultures rise around 
+particular interpretations of it.
 
-This is frustrating, and a little humiliating, but also, and crucially, dangerous; our inability to understand
-and explain such a basic and ubiquitous part of the experience of being human, arguably our paramount purpose
-as a species, has seen entire cultures rise around particular interpretations of it.
+Simultaneously, the recent media frenzy around large language models, and the subsequent debates about the likelihood of LLMs, or AI in general, suddenly becoming conscious (because we want sentient AI, and sentience requires 
+consciousness), have shown that we are also quite willing to substantially diminish the definition of consciousness itself in order to make AI fit the definition. Of course, this is a fundamentally pointless exercise; the 
+definition of consciousness, like the definition of every word in every language humans have ever developed, is a matter of agreement, and has no inherent cosmic importance. Therefore, we can play around with the definitions, 
+but unless the underlying phenomenon are explained, well, nothing has been achieved. We know this, which is what makes the persistent debates about the definitions so frustrating; because we have not yet agreed on a solid 
+definition or description of consciousness, what is considered to be part of it is a matter of opinion, so explaining this vague cloud of characteristics that include properties, behaviors, and our subjective experience 
+of the consequences, is clearly impossible, as evidenced by a thousand years of failure.
 
-Simultaneously, the recent media frenzy around large language models, and the subsequent debates about 
-the likelihood of LLMs, or AI in generally, suddenly become conscious, as sentient requires 
-consciousness, have shown that we are also quite willing, in general, to substantially diminish the 
-definition of consciousness itself in order to make AI fit the definition. Of course, this is as 
-worthless as those that simply reject the premise as altogether impossible; after all, the definition of 
-consciousness, as with any other word in any other language, is simply a matter of consensus. 
-Unfortunately, there is no consensus on what it actually is, or what it feels like, or how it behaves, as 
-it changes from person to person, or maybe just their perception of it, but perception itself ultimately 
-relies on consciousness to make the information 'known' as opposed to just being available.. if there is a productive approach here, I cannot find it.
+The hard problem of consciousness, in my view, is hard precisely because of how ambitiously its scope is assumed, and how overbroad the problem is made to be. Suppose I wanted to explain flames. I know the physical basis of a 
+flame; the volatiles and combustible particulates burn in atmospheric oxygen creating a stream of gas that is hot enough to glow in the visible range. However, my subjective experience of direct physical interactions 
+involving contact, is invariably of painful burns. In fact, it doesn't matter what the flame looks like, or whether it even is visible - if I touch it, it will burn me. None of that, however, makes painful burns a property of 
+flames, but merely a consequence of exactly one physical property of a flame, the temperature - interacting with our skin directly which first leads to whatever physical effects flames have on skin like blisters and melted 
+skin, after which the nerves take over, and ultimately, the brain. This is where pain 'forms' and is felt, so the correct interpretation is to realize that the flame itself does little to actually create the pain, even though 
+it is ultimately the root cause of this experience. The combustible particles are certainly very hot, but the reason we feel it in the first place is purely physical; thermodynamics demands uniform energy distribution across 
+a system, so the moment our hands touch the flame, heat wants to travel into the hand, causing damage and pain. But the flame itself had nothing to do with it, and it is actually the fuel itself and the temperature it is 
+burning at, that determines the temperature and the effect the flame will have on the body. To put simply: neither the burn, nor the pain, are truly a property of the flame.
 
-Finally, there is the simple matter of defining the problem well. The hard problem of consciousness, in 
-my view, is hard precisely because of how ambitiously its jurisdiction is assumed, and how overbroad the 
-problem is made to be. Suppose I wanted to explain flames. I know the physical basis of a flame; the 
-volatiles and combustible particulates burn in atmospheric oxygen creating a stream of gas that is hot 
-enough to glow in the visible range. However, my subjective experience of direct physical interactions 
-involving contact, is invariably of painful burns. In fact, it doesn't matter what is burnt and what the 
-flame looks like, or whether it even is visible - if I touch it, it will burn me. 
-However, the fact that all our direct physical interactions with a flame result in painful burns, does not make
+This is, I claim, a somewhat silly analogy to the very real problem of including the effects and consequences of a process as a property of that process. For example, introspection is classically considered an 
+integral, and arguably inseperable part of consciousness and the subjective experience of 'being'. This, however, is inaccurate - consciousness is certainly a part of it, but introspection is the combination of 
+consciousness, with linguistic and analytical skills employed to analyze ones own behavior and mental state. If one were to remove the analytical and linguistics aspects of introspection, one would expect to be left with pure 
+consciousness, and in this view, pure consciousness would simply be the facility of sensing the brain's state.
 
-We can see the rough 
-contours of an analogy forming here. We understand the physics and chemistry of a flame, and then there 
-is a gap, and then there is the subjective experience of it. This gap is not entirely empty; we know 
-there are physical processes that are fairly well understood. At the area near the burn, nociceptors 
-start firing off chemical signals to the message neurons, which then pass them over time to the brain or spine.
-At this point, 'something' happens that involves our consciousness, our subjective sense of self, language,
-memory, and a whole lot else, which leads to a painful burn and an "oh FUCK".
+Finallly, a disclaimer: the general pattern of the arguments that follow will reply on liberal oversimplifications, overbroad generalizations and a very superficial, logical analysis. The result is not expected to be a description
+of reality, and shouldn't be seen as such. Instead, the goal is simply to prompt fresh discussions from a different point of view, with the hope that a review of the problem statement itself might lead to some insights.
 
-While there have been many promising approaches, as a whole, any real insight evades us. In fact, our problems
-are significantly more severe; we have not yet been able to agree on a definition for consciousness, nor do we
-have a reliable and universally applicable test for consciousness. The recent media frenzy about language models
-'developing consciousness' has served as a grim reminder of the fact that for the vast majority of people, there
-is little difference between true consciousness, and a convincing pretense of it.
-
-In my personal and extremely unqualified view, this is unbecoming of a species that sent a space probe 
-currently in 'deep space' fifty years ago, and there is a certain humiliating irony in the fact that 
-while we have directly observed black holes, gravitational waves, and the mind-bending physics of the 
-quantum scale, and yet our ability to completely describe our own internal experience, even our own 
-perception of ourselves, remains far beyond reach, with current treatments and analyses relying on higher 
-level abstractions and the overall functional behavior even if we do not know why these behaviors arise.
-
-
-In an attempt to help drag us out of this rut, I propose a wholly unqualified opinion, and an exploration 
-of the consequences and implications of this treatment of consciousness. This is not meant to be a theory 
-of consciousness, or even a formal claim of having explained one of more aspects of it. This is meant to 
-be the planks laid in the tyre-tracks so we can drive our way towards an explanation, merely an 
-alternative avenue that I claim is sufficiently consistent to warrant analysis by more competent minds.
 
 1. What are we dealing with?
 
-We are trying to come up with a view of consciousness that is internally consistent, consistent with all 
- our observations and experiences, and hopefully makes predictions that can be tested. Now, in its 
- simplest and most accurate definition, sight is the perception of light in our surroundings. We know how 
- this works; lenses focus ambient light onto the retina, which then sends electrical impulses into the 
- brain. The specifics of this process are irrelevant; all we are concerned with is the fact that we can 
- trace a purely physical process of perception until it reaches the brain, at which point, by 'some 
- magic', this perception becomes available as internalized information, even if transient. Crucially, note 
-that the conscious perception of our surroundings, visual or otherwise, is not actually a perception of our 
-surroundings, but instead the culmination of a rather elaborate and complex calculation involving the 
-brain's past experiences, memories of the sensory cues surrounding those experiences, the results of any 
-interactions with these surroundings, which is then used to create a nearly unfailingly accurate 'guess' 
-of the most likely cause of the particular set of sensory inputs. 
+We are trying to come up with a view of consciousness that is internally consistent, consistent with all our observations and experiences, and hopefully makes predictions that can be tested. Note that there still is no 
+solution to the ultimate problem of actually testing for consciousness itself. I will attempt to argue that this is actually impossible within the following treatment of consciousness.
 
-In particular, note that the moment the light hits the retina, or sound hits the eardrum, or any other 
-stimulus turns into an electrical impulse, we are for all intents and purposes, detached from reality; we 
-must navigate our universe relying exclusively on the stories our brain makes up. In fact, this reality 
-is not even 'directly' available to the brain, which must make do with the electrical impulses which are 
-not nearly 'consistent' enough to serve as a reliable signal. (Exactly identical images do not result in 
-exactly identical retinal impulses). Further, also note that it is not sufficient for the sensory organs 
-to simply deliver these impulses to the brain, or even the brain receiving these impulses correctly.
-Put simply, 'I' do not perceive reality, I only perceive the picture my brain creates. We can see a promising
-lead forming here: perception requires sensory organs, so like external light requires eyes, and the brain requires neural impulses, the picture of reality the brain has created must also require a sensory organ.
+We start with a simple example of a sensory process that ends with subjective perception, such as sight. In its simplest and most accurate definition, sight is the perception of ambient electromagnetic radiation within a 
+ certain range of frequencies. We know how this works; lenses focus ambient light onto the retina, which then sends electrical impulses into the brain. This is the end of the track, and we do not know what happens between 
+ this point, and the subjective experience of this picture of reality that is known, internally. We can trace a purely physical process of perception until it reaches the brain, at which point, by 'some magic', this 
+ perception becomes available as internalized information, even if transient. 
 
-This, I claim, is all consciousness. Effectively a 'software' sensory organ, the exclusive purpose of consciousness
-is to perceive the internal state of the brain through 'some' abstractions.
+Going back to our definition of sight, as the perception of ambient electromagnetic radiation within a certain range of frequencies, we notice that while this is a complete and accurate definition of sight, the word 
+ 'perception' actually hides a lot of the complexity and mystery we associate with conscious subjective experience. In particular, what is 'perceived' is not what is actually captured by the eyes - the moment light hits the 
+ retina, or sound hits the eardrum, or any other stimulus turns into an electrical impulse, we are for all intents and purposes, detached from reality; we must navigate our universe relying exclusively on the stories our 
+ brain makes up. In fact, this reality is not even 'directly' available to the brain, which must make do with the electrical impulses which are not nearly 'consistent' enough to serve as a reliable signal (exactly identical 
+ images do not cause exactly identical retinal impulses), seen within the context of what it has experienced in the past. The conscious perception of our surroundings, visual or otherwise, is the culmination of a rather 
+ complex (inasmuch as we know little about it) computation involving the brain's past experiences with visual stimuli, within the context of its experiences and learned patterns considering all other senses, ending with a nearly 
+ infallible guess of reality. Only the first step of this process has anything to do with actual reality; the rest is functionally identical to large language models - generate from a 'prompt' consisting of neural impulses 
+ from sensory organs, based on patterns discovered in past 'experiences'. This picture is complete and accurate, until the point preceding the actual subjective experience. This is important; the entire process of perception, 
+ functionally, is clearly separable into two parts. The first is what the brain does (note that we only need the what, not the how or why). The second, is the matter of the subjective experience. 
+
+Now consider the following: in typical non-pathological scenarios, the visual perception of the world must begin with organs that are specifically designed to sense light. The rest can be made up, but the initial prompt must be 
+from a source that actually can sense reality. If we instead draw a larger box to capture everything that can be directly attributed to physical effects in the process of perception, namely, the light, the eyes, the nerves, 
+the brain, and all the electrochemical activity that we know occurs, ending with this picture that we know the brain creates, the question of perception is therefore reduced to somehow, sensing this picture the brain has 
+created. Further, this 'picture' is a catch-all for all we know the brain can do - thought, perception, emotional responses, and so on. Every aspect of our conscious, subjective experience of reality, everything we think, 
+everything we see, hear, love, hate, anger, happiness, self-hate and ideas of self-harm, are ultimately pure creations of the brain. In addition, these creations are not tangible objects that are passed on to the magical 
+agent of consciousness, but absolutely intangible events that cannot be separated into further steps(FUNCTIONALLY); we can discern no sequence of steps either in the creation of this picture itself, nor in the perception of 
+this picture. In this abstract view, all of perception, emotion, and thought, therefore results in what can best be described as 'some' state of the brain. This state involves certain regions of the brain being active, 
+certain neurons firing in specific ways in specific directions, a process too hopelessly complicated to actuallly track physically, but we only need to know that the brain has now gone from one state to another, the first being 
+the moment preceding subjective experience, and the latter, during, with all the insanity taking place during the transition.
+
+We know consciousness and subjective experience ultimately must have a physical origin, but we also know the subjective experience of reality is itself not physical. If we simply separate the 
+physical, the universe and all the brain does, from the non-physical, what this results in internally, and force the same logic, that the perception of all physical stimuli requires some way of sensing it, then the brain's 
+state must need a sensory organ as well. Resist any temptations to include the entire range of our subjective experiences and the 'magic' therein, poetry or love or whatever else, from what actually happens - burns are not a 
+property of flames, but a consequence. From a purely functional perspective, it is reasonable to suggest that because the brain creates these intangible pictures of reality, pictures consisting of visuals, audio, smell, temperature, emotion - 
+an agent that actually senses these states, collating all these diverse sources of information and the cryptic mess of electrical discharges, into some coherent picture of reality, which must then be 'available' as an actual 
+picture, rather than a set of properties, like a photograph versus a list of RGB values.
+
+Simultaneously, because the brain is ultimately incharge of nearly everything the body does (ignoring the specifics of the autonomous nervous system, for example, which involves the brain stem and the spine), it is sufficient 
+for the brain to have some mechanism of turning these impulses into a 'known' picture of reality. In other words, a purely non-physical, that is, brain-generated 'sensory' system that can manage this effect will suffice, 
+needing no additional hardware at all, neural or otherwise. 
+The brain, in this view, is comparable to a bare-metal computer, relying only on its internal physical and logical construction to perform actions that are determined by its physical state. The need for operating-systems
+in computing, is identical to the need for something resembling consciousness - a way to sense and interact with the hardware without needing to know the specifics underlying physical events. It must be pointed out that
+conversely, not knowing or understanding the physical events underlying modern computing, or being unable to truly trace them considering the level of complexity here, is no excuse to suggest that hypervisors or operating systems
+are sentient, intelligent, or a part of a unifying God-consciousness of which all virtual-machines are ultimately a part. Recreational discussions on this front are most certainly valuable and entertaining, in the same way philosophy
+treats consciousness, but there is no reason to suggest that consciousness is anything but this front-end for the brain to interact with itself, and with reality, with some convenient abstraction.
+
+One obvious question here, is why one is needed. There are certainly a whole mess of retroactive explanations using some evolutionary logic, but the only fact of importance here is that evolution and natural selection do not 
+actually select for the 'best' anything, whether physically or functionally; there is no qualititave comparision between different mutations that result in different behaviors and capacities. All natural selection is, is a 
+matter of what allows an individual to live long enough to reproduce. Further, what happens after reproduction is entirely irrelevant, and the entire process of natural selection simplifies to a race between death and 
+reproduction. Therefore, the traits that persist do not need to actually produce any practical benefits; as long as they do not hurt the population's chances of reproduction. If there are mutations introduced, the individuals with
+mutations that hurt these chances will obviously reproduce less than the ones that do not, but most traits that persist in populations, especially as the context and circumstances diverge from the conditions that favoured those traits, it is possible to have superbly complex traits that offer absolutely no clear benefit.
+In fact, given that it is possible for bare-metal computers to exist, or even purely analog circuitry that can be designed to perform a spectacular range of tasks, it is atleast not necessary to be conscious, to be functional and
+competitive on an evolutionary scale. However, as all mutations that form the core of evolutionary progressions in species, are ultimately arbitrary - mutations are not chosen by the species - once 'some' rudimentary mechanism
+for sensing the state of the brain, it only has to not pose a disadvantage to persist. However, once this sense becomes a trait, it allows for serious jumps in complexity of the underlying computer, in exactly the same way that
+the operating system allows for elegant control of monstrously complicated hardware. In other words, consciousness, while being unnecessary for function and survival, as evident in the vast diversity of organisms that have no brain
+or nervous system to allow for consciousness, 
+
+
+
+
+
+
+
+
+
+
+
+
+
+This is comparable to a hypervisor in the context of computing and virtual-machines. The same hardware that runs the virtual machines, and all the processes inside 
+them, also runs the processes that control and manage these. (The specifics of the type of hypervisor is irrelevant for this analogy. Whether bare-metal or hosted, the fact remains, that the same hardware sufficies, whether 
+or not an OS is involved). Again, physically, even though it is theoretically possible to trace every single event that happens in these virtual machines to some exact physical cause in the motherboard, it is unnecessary, 
+and most software engineers in the world do not need to concern themselves with the physical events in the circuitry. 
+
+
+
+
+
+We can see a promising lead forming here: perception requires sensory organs, so like external light requires eyes, and the brain requires neural impulses, the picture of reality the brain has created must also 
+require a sensory organ.
+
+This, I claim, is all consciousness. Effectively a 'software' sensory organ, the exclusive purpose of consciousness is to perceive the internal state of the brain through 'some' abstractions. 
 
 We can track this extreme separation of function to the immediate next 'level'; the picture of reality 
 that the brain makes up are entirely independent of consciousness itself, which we have defined as the 
