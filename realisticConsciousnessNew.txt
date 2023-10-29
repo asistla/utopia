@@ -24,10 +24,10 @@ arguably inseparable part of consciousness and the subjective experience of 'bei
 linguistic and analytical skills employed to analyze one's own behavior and mental state. If one were to remove the analytical and linguistic aspects of introspection, one would expect to be left with pure consciousness, and 
 in this view, pure consciousness would simply be the facility of sensing the brain's state.
 
-Finally, a disclaimer: the general pattern of the arguments that follow will reply on liberal oversimplifications, overbroad generalizations, and a very superficial, logical analysis. The result is not expected to be a 
+Finally, a disclaimer: the general pattern of the arguments that follow will rely on liberal oversimplifications, overbroad generalizations, and a very superficial, logical analysis. The result is not expected to be a 
 description of reality, and shouldn't be seen as such. Instead, the goal is simply to prompt fresh discussions from a different point of view, with the hope that a review of the problem statement itself might lead to some 
-insights.
-
+insights. Also, where I refer to 'intelligence' in relation to consciousness, I am referring not merely to analytical capacity, but overall capacity for independent function, whether analytical or emotional. In other words, 
+'intelligence' in these cases is used as a stand-in for the capacity for free will, which is prerequisite to free-will and the possibility of any conscious decision-making.
 
 1. What are we dealing with?
 
@@ -56,8 +56,8 @@ from a source that actually can sense reality. If we instead draw a larger box t
 the brain, and all the electrochemical activity that we know occurs, ending with this picture that we know the brain creates, the question of perception is therefore reduced to somehow, sensing this picture the brain has
 created. Further, this 'picture' is a catch-all for all we know the brain can do - thought, perception, emotional responses, and so on. Every aspect of our conscious, subjective experience of reality, everything we think,
 everything we see, hear love, hate, anger, happiness, self-hate, and ideas of self-harm, are ultimately pure creations of the brain. In addition, these creations are not tangible objects that are passed on to the magical
-agent of consciousness, but intangible events that cannot be separated into further steps(FUNCTIONALLY); we can discern no sequence of steps either in the creation of this picture itself or in the perception of
-this picture. In this abstract view, all perception, emotion, and thought, therefore results in what can best be described as 'some' state of the brain. This state involves certain regions of the brain being active,
+agent of consciousness, but intangible events that cannot be separated into further steps functionally.
+In this abstract view, all perception, emotion, and thought, therefore results in what can best be described as 'some' state of the brain. This state involves certain regions of the brain being active,
 certain neurons firing in specific ways in specific directions, a process too hopelessly complicated to track physically, but we only need to know that the brain has now gone from one state to another, the first being
 the moment preceding subjective experience, and the latter, during, with all the insanity taking place during the transition.
 
@@ -69,7 +69,7 @@ that senses these states, collating all these diverse sources of information and
 rather than a set of properties, like a photograph versus a list of RGB values.
 
 Simultaneously, because the brain is ultimately in charge of nearly everything the body does (ignoring the specifics of the autonomous nervous system, for example, which involves the brain stem and the spine), it is sufficient
-for the brain to have some mechanism of turning these impulses into a 'known' picture of reality. In other words, a purely non-physical, that is, brain-generated 'sensory' system that can manage this effect will suffice,
+for the brain to have some mechanism of turning these impulses into a 'known' picture of reality, as opposed to needing a separate entity. In other words, a purely non-physical, that is, brain-generated 'sensory' system that can manage this effect will suffice,
 needing no additional hardware at all, neural or otherwise. Note that the claim is not that this is the correct picture of what goes on between the brain's actions and the effects on our subjective experience, but instead,
 that even this oversimplified picture explains everything we observe. Further, to determine if this is possible at all, we only need to recognize the existence of software - purely 'abstract' entities with definite
 physical origins, but abstracted to such an extent that direct correlations between the results and the physical causes are practically impossible to identify, even if they exist.
@@ -149,53 +149,84 @@ recognition of this decision and then the actual movement, the findings being th
 circumstances, its interpretation of its current circumstances, and all the errors that pile up at every step of this process. Second, try determining the source of the next thought that pops into your mind; you will find that
 generally, this is a mystery, but the administration has been set up so well that this does not register as a problem at all. If this is indeed true, we must expect intelligence, emotional response, and a person's entire body of
 thought and internal monologue, to be ultimately beyond their control.
-
-Further, Any realization of one's shortcomings, and any epiphanies about needing to fix them, are also
-products of the same television operator's whims and are also beyond their control. If the brain happens to generate thoughts about self-improvement, this will feel like introspection to the perception-monkey, but
-this is in reality yet another manifestation of a fairly elaborate and sophisticated setup that consistently makes one feel like they are in control. The monkey is entirely at the mercy of the television operator, and the
-television operator has the tools to prompt the entire spectrum of human internal experience; love, loss, anger, misery, joy, indifference, sexual arousal - all emotions we feel and are familiar with, but clearly beyond our
-control.
-
-Further still, if the above is true, any significant change in the brain's psychological behavior, if it is to be achieved without physical or chemical manipulations, requires an external agent or tool to affect this
-change - the monkey has no control over the television, and the brain relies on external cues in combination with its programming to determine even the broad topics it approaches. Therefore, the only real options
-available here to affect these changes, require either the brain to generate these ideas and initiate these actions, which is purely a matter of chance and circumstance, OR, an external agent to influence said chance
-and circumstance. For these reasons, external stimuli represent the only direct route to changing psychology, and it is exceedingly rare for individuals to be able to reverse negative patterns of thought or emotion,
-obsessions, addictions, and so on. This is valid even for the most banal mental events we observe; try to compute 37*39 mentally, without a pen and paper, and analyze how this works. I claim that computations of this
-sort, or analysis in general, involve not actively and consciously 'solving' the problem at hand, but instead waiting until a step presents itself on the screen. Until this point, all one can do is wait, turning the
-problem over and around, trying different strategies, and different perspectives, none of which are voluntarily chosen, but instead, strictly observed AFTER the brain has produced these ideas. If the above picture is
-accurate, it should be strictly impossible to get the brain to do anything at all. (The meaninglessness of this is evident from the sentence itself - there is nothing available to 'get things done' if the brain is left out of
-this equation - the brain can make itself do things, but it doesn't take requests from the consciousness-mokney. Our conscious self is controlled by the brain, not the other way around)
- claim what we consider 'intelligence' is a measure of the brain's ability to generate relevant ideas that fit best given a particular problem, and the rate at which it can do so. Therefore, situations that involve some
-form of intellectual competition, are essentially like chicken fights - the conscious self has no influence, and you sit there hoping the brain, the chicken, does well. Further, one cannot become smarter, for the most
-part, at least; education and practice definitely could lead to improved mental capabilities, but this is again a matter of trying to train the television operator, in the hope that they will now be capable of more accurate
-programming on the screen - but this is no guarantee, and in fact, is a total failure most of the time. This extension applies equally well to all human internal experiences and our general powerlessness against the
-cruelty of our own brain's emotional and illogical responses to situations that do not deserve it. Anxiety, depression, rage, and other such debilitating (or at least, result in total loss of control) are known to be a
-consequence of a combination of neurobiological and psychological causes, and crucially, rarely self-correctable. This is obvious because the wishes of the conscious self go nowhere - it is not just that they will stay
-unfulfilled, the fact is there is no one listening - the television screen does not carry the monkey's messages to the operator. If we step back from this line of argument, we can see another aspect of this idea. Because the
-brain (the operator) is known to be primarily a creature of habit, being essentially a lump of meat with the right hardware at birth, to learn patterns of thought and behavior over the child's growth. This means any further
-purely psychological (as opposed to chemical or electrical interventions) 'modification' of the operator's behavior, must necessarily come from outside; as far as one's own identity and sense of self are concerned, this
-'internal monologue' is not the monkey talking to itself, but the monkey reading the operator's internal monologue, and believing it to be its own. Because the operator is the only one talking, any ideas, whether
-self-destructive or self-constructive, are all part of the operator's endless podcast. The conscious self has no hope of being heard by the operator, let alone being taken seriously, so reconstructions of any learned patterns
-must originate outside the brain, and must be specifically directed at fixing patterns, disrupting unhealthy patterns that have been reinforced over time without the monkey's participation. The conscious identity is
-powerless, so willpower, determination, and a genuine will to change oneself DO NOT exist unless the brain generates them, and the brain will not do so on its own unless supplanted by external mechanisms that
-directly deal with the operator.
+Finally, note that every experience that assumes an intelligent consciousness possessing free will, can be explained equally well with a purely passive consciousness that has ONLY one function: create a subjective 'perception'
+of the brain's state.
 
 
-3. WHY?
 
+
+3. Implications.
+
+In an abstract sense, the brain effectively functions similar to recent language models - it generates based on its past learning, with sensory inputs as prompts. Consciousness would then just be the observer of these generations.
+Seeing consciousness as devoid of free will, intelligence or any other capacity traditionally attributed to it leads to some interesting suggestions around other popular debates.
+Note that these are stories as speculative as everything above, but more shamelessly imaginative. As long as one finds them interesting, their purpose stands served.
+
+The explanatory gap: 
+If we take this argument to the limit, it seems reasonable to suggest that given that consciousness is purely a construction of the brain no different from its construction of the world we see or the 
+sounds we hear, its specific qualities would depend on the total system of the brain, with its specific differences between people, the specific shapes and layouts of each neuron in relation with the other. If brains are not 
+exactly identical between two individuals, why should we expect their effects to be, subjective or objective? No two MRI scans are exactly identical, the physical responses of every brain is demonstrably different at the 
+microscopic level from every other: every aspect of the hardware is different, with only the broad functional architecture remaining common. Our expectations of the subjective experiences between individuals, should be 
+identical unless we have reason to suspect otherwise - completely distinct at the microscopic levels, with only the broad functional aspects being common. To insist otherwise is as meaningless as knowing no two arms are 
+exactly the same, and wondering why the fingerprints are different. With a hop, skip, and a jump, I suggest the explanatory gap simply does not exist unless if we assume identical stimuli must reasult in identical subjective 
+experiences, which is clearly absurd - we know each individual's subjective perception of reality is not actually a perception of reality, but a perception of their brains reconstruction of reality. There is a vanishingly 
+small chance that two brains that are physically distinct can produce identical results, but to expect this to be the norm is unreasonable.
+
+Self-improvement, worldview, mental illness:
+
+Any realization of one's shortcomings, and any epiphanies about needing to fix them, are also products of the same television operator's whims, beyond conscious control. If the brain happens to generate thoughts about 
+the self, this will feel like introspection to consciousness-the-perception-monkey; a somewhat facetious and childish, but logical explanation would be that the pronoun-perspective of the operator is what they put on the 
+television, which is the same pronoun-perspective the monkey picks up. The brain says "this is what I see", the monkey internalizes, feels, and believes "this is what I see".
+
+Further still, if the above is true, any significant change in the brain's psychological behavior, if it is to be achieved without physical or chemical manipulations, requires an external agent to affect this change - the 
+monkey has no control over the television, and the brain relies on external cues in combination with its programming to determine what it does from moment to moment. Therefore, the only real options available here to affect 
+these changes, are to either wait for the brain to generate these ideas and initiate these actions, which is purely a matter of chance and circumstance, OR, an introduce external agent to influence said chance and 
+circumstance. For these reasons, external stimuli represent the only route to changing pathological psychology, and it is exceedingly rare for individuals to be able to reverse negative patterns of thought or 
+emotion, obsessions, addictions, and so on. Note that while the impact of these stimuli are related to how potent they are, that is, a conversation with a qualified and competent therapist would likely help much more than
+a fortune cookie, the right fortune cookie at the right time can still be transformative.
+
+This is valid even for the most banal mental events we observe; try to compute 37*39 mentally, without a pen and paper, and analyze how this works. I claim that computations of this sort, or analysis in general, involve not 
+actively and consciously 'solving' the problem at hand, but instead waiting until a step presents itself on the screen. Until this point, all one can do is wait, watching the television as the operator turns the problem over 
+and around, trying different strategies, different perspectives, none of which are voluntarily chosen by the monkey, but instead, strictly observed AFTER the brain has produced these ideas. If the above picture is accurate, 
+it should be strictly impossible to get the brain to do anything at all. (The meaninglessness of this is evident from the sentence itself - there is nothing available to 'get things done' if the brain is left out of this 
+equation - the brain can make itself do things, but it doesn't take requests from the consciousness-mokney. Our conscious self is controlled by the brain, not the other way around) claim what we consider 'intelligence' is a 
+measure of the brain's ability to generate relevant ideas that fit best given a particular problem, and the rate at which it can do so. Therefore, situations that involve some form of intellectual competition, are essentially 
+like chicken fights - the conscious self has no influence, and you sit there hoping the brain, the chicken, does well. Further, one cannot become smarter, for the most part, at least; education and practice definitely could 
+lead to improved mental capabilities, but this is again a matter of trying to train the television operator, in the hope that they will now be capable of more accurate programming on the screen - but this is no guarantee, and 
+in fact, is a total failure most of the time. This extension applies equally well to all human internal experiences and our general powerlessness against the cruelty of our own brain's emotional and illogical responses to 
+situations that do not deserve it. Anxiety, depression, rage, and other such debilitating (or at least, result in total loss of control) are known to be a consequence of a combination of neurobiological and psychological 
+causes, and crucially, rarely self-correctable. This is obvious because the wishes of the conscious self go nowhere - it is not just that they will stay unfulfilled, the fact is there is no one listening - the television 
+screen does not carry the monkey's messages to the operator. If we step back from this line of argument, we can see another aspect of this idea. Because the brain (the operator) is known to be primarily a creature of habit, 
+being essentially a lump of meat with the right hardware at birth, to learn patterns of thought and behavior over the child's growth. This means any further purely psychological (as opposed to chemical or electrical 
+interventions) 'modification' of the operator's behavior, must necessarily come from outside; as far as one's own identity and sense of self are concerned, this 'internal monologue' is not the monkey talking to itself, but 
+the monkey reading the operator's internal monologue, and believing it to be its own. Because the operator is the only one talking, any ideas, whether self-destructive or self-constructive, are all part of the operator's 
+endless podcast. The conscious self has no hope of being heard by the operator, let alone being taken seriously, so reconstructions of any learned patterns must originate outside the brain, and must be specifically directed 
+at fixing patterns, disrupting unhealthy patterns that have been reinforced over time without the monkey's participation. The conscious identity is powerless, so willpower, determination, and a genuine will to change oneself 
+simply do not exist unless the brain generates them, and the brain can either generate them by pure chance, or generate them in response to external cues. The former decreases in likelihood the longer whatever 'negative 
+pattern' has been allowed to continue uninterrupted, as in fact, consciousness for all its powers cannot act as a corrective influence on its cause, the brain. One can therefore consciously perceive a psychological trait or 
+pattern as painful and pathological, and yet be absolutely powerless to change it. However, this suggests, as is observed, that even the slightest corrective influences, as long as they are external to the individual, can 
+have dramatic effects: the brain is capable of correcting its creations, and therefore what the monkey 'feels' as subjective reality, rapidly given external evidence of its incorrectness, which is why many illusions can 
+permanently lose their effect on people - but this must be truly external, as there is NO internal corrective mechanism. In particular, because it is reasonable to argue that painful situations are precisely when perception 
+would be most required to be accurate, a perceived picture of reality in itself does not seem to prompt the brain to change its interpretations to a less painful one, even when one seems obvious. and the brain will not do so 
+on its own unless supplanted by external mechanisms. This could explain why so many people swear by self-help books, cult-leaders and social-media influences, referring to them as life-changing: the brain does not 
+differentiate between the sources of these corrective influences, as long as they are external. So even the most contemptible source could have truly dramatic effects on an individual as long as the brain interprets it as a 
+corrective influence.
+
+The point of it all:
 As stated earlier, the cause for the existence of consciousness has a boilerplate explanation. The why, technically, is unnecessary (the universe needs no reason, nor is there anything to reason with), but it is possible to invent
-a perspective within which these behaviors can be more productively understood. A few ideas are suggested here to spur discussions on the back end of the above-described mechanisms.
+a perspective within which these behaviors can be more productively understood. 
 So here is the question: what is the brain supposed to be doing, exactly?
  
 I propose the following: the core duty of the brain is to maximize predictability. There are obvious individual, social, and evolutionary advantages to having predictable surroundings, and forms the main justification for the 
 evolution of territorial behavior in animals - theoretically speaking, this marked territory forms the zone of absolute predictability. If this is true, if there is some inherent control system designed to maximize 
-predictability, it must be capable of 1. seeking out unpredictable or unknown situations, and 2. making them predictable. In practice, this must manifest as some positive reward for finding such ill-understood situations and 
-a punishment for avoiding them. I argue, with only the slightest confidence, that boredom and thrill-seeking are the results of this feedback mechanism. We enjoy thrilling, 'scary' situations, enough to actively seek them out 
-- the brain rewards this, and we feel good, as long as the experience remains novel. Once the experience is understood, once the brain knows what happens next, boredom quickly sets in - the brain has figured this situation 
-out, and there is no danger, so it must move on to understanding other places that need to be made predictable. Curiosity is therefore hardwired, and so is the maddening irritation that boredom can lead to. In particular, this idea
-hints at some potential explanations for the oft-discussed association between intelligence and boredom. The vagueness of 'intelligence' offers sufficient grounds to posit some explanations: if intelligence is instead seen as 
-a general abstraction of the brain's capability seen in totality, it is reasonable to expect that the system that drives reward and punishment for novelty and predictability would be commensurately stronger, that is, stronger
-rewards and stronger punishments, and therefore, higher likelihood of avoiding boredom and seeking novelty. (Of course, intelligence is not a prerequisite for a stronger risk-reward system for predictability.)
+predictability, it must be capable of 1. seeking out unpredictable or unknown situations, and 2. making them predictable. Crucially, this 'predictability' is to be seen in the context of predictably beneficial conditions for 
+the individual; remembering the locations of water-bodies, hoarding food before winters, to complex social behaviors like organization in general, are all consequent and emergent aspects of this same fundamental need. 
+Internally, this must manifest as some positive reward for finding such ill-understood situations and a punishment for avoiding them- crucially, when survival is not a concern. I argue, with only the slightest confidence, 
+that boredom and thrill-seeking are the results of this feedback mechanism, and they only become active when we are not in life-or-death situations. We enjoy thrilling, 'scary' situations, enough to actively seek them out - 
+the brain rewards this, and we feel good, as long as the experience remains novel. Once the experience is understood, once the brain knows what happens next, boredom quickly sets in - the brain has figured this situation out, 
+and there is no danger, so it must move on to understanding other places that need to be made predictable. Curiosity is therefore hardwired, and so is the maddening irritation that boredom can lead to. In particular, this 
+idea hints at some potential explanations for the oft-discussed association between intelligence and boredom. The vagueness of 'intelligence' offers sufficient grounds to posit some explanations: if intelligence is instead 
+seen as a general abstraction of the brain's capability seen in totality, it is reasonable to expect that the system that drives reward and punishment for novelty and predictability would be commensurately stronger, that is, 
+stronger rewards and stronger punishments, and therefore, higher likelihood of avoiding boredom and seeking novelty. (Of course, intelligence is not a prerequisite for a stronger risk-reward system for predictability.)
 
 The function of the conscious self, then, is simply to 'feel' these rewards and punishments, in conjunction with the consequent physical effects like elevated heart rates or dilated pupils, as the brain itself is incapable of 
 feeling. Further, any attempt to exploit this inherent attraction to the unknown and unexpected must either display something truly unexpected or insert sufficient 'danger signals' into the known and predictable to get a 
