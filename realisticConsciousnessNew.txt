@@ -211,6 +211,27 @@ on its own unless supplanted by external mechanisms. This could explain why so m
 differentiate between the sources of these corrective influences, as long as they are external. So even the most contemptible source could have truly dramatic effects on an individual as long as the brain interprets it as a 
 corrective influence.
 
+Artificial-intelligence and sentience:
+
+As I have claimed above, there is a logical way of explaining many aspects of our subjective experience of being and perception, that do not involve attributing special qualities to consciousness itself. However, how this 
+actually happens still remains open; the precise mechanism by which the monkey observes the screen without eyes or a brain of its own and how this turns into subjective internal experience, has remained absolutely 
+unapproachable. This is precisely what convinces us of some exceedingly special, if not supernatural processes at play here. 
+If, like me, you feel no need to invoke the supernatural every time you see an unsolved problem, we can agree that no matter how complex or beyond our understanding all this is, it is exclusively within the body, and 
+therefore involves very well recognized physical and electrochemical events. Love, loss, joy, the flutters of the heart at seeing a loved one - physical, chemical, and electrically caused. However, in spite of knowing the 
+causes (we know we can induce certain emotional responses using certain chemicals, that is, we have pills that can change certain subjective experiences), simply being unable to understand the mechanism has been historically
+sufficient reason for be awed by consciousness and persistently try to attach metaphysical and supernatural explanations to it. 
+In keeping with this tendency, note that the people who are most likely to have believed they were conversing with a sentient being during the initial days of the recent breakthroughs in AI and large language models, are 
+people who understand the mechanisms behind these systems least. This is due to no deficiency of their own - in keeping with the maximal-predictability heuristic, we truly are more likely to be attracted to things we cannot 
+explain or understand. But seeking out novelty is only the first part of this operation; maximizing predictability actually requires understanding. As long as the understanding remains missing, our tendency seems to be to
+keep throwing attempts at explanations, only using very rudimentary logic as a test of validity. To the extent that we can test any theory about conciousness, there is little difference between saying it's an emergent phenomena
+that the brain magically creates somehow, and calling it all god's work, and for the average non-academic, equally sensible theories. 
+This means, our perception, and our likelihood of considering an artificial intelligence as conscious or sentient, is a function of how well we understand the mechanisms that make it work. As it stands, we have already 
+reached this point; neural networks are 'understood' broadly the same way our brains are, but in practice, the networks that drive these systems are so massive and hopelessly complicated that there is no one who can truly 
+claim to be able to explain the exact events that led to a particular response from an AI agent. Tests like the turing test are attempts to turn this subjective perception into some objective test, but taken across the population,
+we are very comfortable with calling any coherent AI agent that can hold a sensible conversation, while its exact function remains a mystery, intelligent and conscious. 
+I suppose the question is ultimately about the value of an academic definition of consciousness, intelligence or sentience over a colloqual one. Given that these both the traits and the perception of their existence are 
+fundamentally subjective, there seems little point in hoping for objective measures.
+
 The point of it all:
 As stated earlier, the cause for the existence of consciousness has a boilerplate explanation. The why, technically, is unnecessary (the universe needs no reason, nor is there anything to reason with), but it is possible to invent
 a perspective within which these behaviors can be more productively understood. 
@@ -243,3 +264,4 @@ outside a very narrow set of conditions. The effects of climate change will infu
 discussions related to climate change, for the same reasons - we've been making the same arguments for about thirty years, and we are bored of them. Fifty years from now, we may simply be too bored and detached from reality 
 to save our own lives, like Calhoun's rats. What can you do? The monkey has no control. Even as I write this, my conscious self is merely reading the words as they are typed out - I am not consciously deciding each word - my 
 brain has decided what it wants to say, including this sentence. I am just watching. The monkey just bears witness.
+
