@@ -43,10 +43,13 @@ Going back to our definition of sight, as the perception of ambient electromagne
  retina, or sound hits the eardrum, or any other stimulus turns into an electrical impulse, we are for all intents and purposes, detached from reality; we must navigate our universe relying exclusively on the stories our 
  brain makes up. In fact, this reality is not even 'directly' available to the brain, which must make do with the electrical impulses which are not nearly 'consistent' enough to serve as a reliable signal (exactly identical 
  images do not cause exactly identical retinal impulses), seen within the context of what it has experienced in the past. The conscious perception of our surroundings, visual or otherwise, is the culmination of a rather 
- complex (inasmuch as we know little about it) computation involving the brain's past experiences with visual stimuli, within the context of its experiences and learned patterns considering all other senses, ending with a nearly 
- infallible guess of reality. Only the first step of this process has anything to do with actual reality; the rest is functionally identical to large language models - generate from a 'prompt' consisting of neural impulses 
- from sensory organs, based on patterns discovered in past 'experiences'. This picture is complete and accurate, until the point preceding the actual subjective experience. This is important; the entire process of perception, 
- functionally, is clearly separable into two parts. The first is what the brain does (note that we only need the what, not the how or why). The second, is the matter of the subjective experience. 
+ complex (inasmuch as we know little about it) computation involving the brain's past experiences with visual stimuli, within the context of its experiences and learned patterns considering all other senses, ending with a 
+ nearly infallible guess of reality. Only the first step of this process has anything to do with actual reality; the rest is functionally identical to large language models - generate from a 'prompt' consisting of neural 
+ impulses from sensory organs, based on patterns discovered in past 'experiences'. This picture is complete and accurate, until the point preceding the actual subjective experience. This is important; the entire process of 
+ perception, functionally, is clearly separable into two parts. The first is what the brain does (note that we only need the what, not the how or why). The second, is the matter of the subjective experience. We do not want to 
+ attach more properties to our view of consciousness unless we need to, because the larger the circle around what we consider consciousness, the harder it is to explain all its myriad aspects. So how simply can we define 
+ consciousness, while preserving all properties that are commonly considered part of it? A very good candidate is simply "awareness of our internal state". This definition is vague, and leaves the burden of defining what 
+ 'awareness' is, and what constitutes an 'internal state'; but with a strictly colloqual reading, this is an accurate, if incomplete description of what most would agree constitutes consciousness.
 
 Now consider the following: in typical non-pathological scenarios, the visual perception of the world must begin with organs that are specifically designed to sense light. The rest can be made up, but the initial prompt must be 
 from a source that actually can sense reality. If we instead draw a larger box to capture everything that can be directly attributed to physical effects in the process of perception, namely, the light, the eyes, the nerves, 
@@ -58,104 +61,60 @@ this picture. In this abstract view, all of perception, emotion, and thought, th
 certain neurons firing in specific ways in specific directions, a process too hopelessly complicated to actuallly track physically, but we only need to know that the brain has now gone from one state to another, the first being 
 the moment preceding subjective experience, and the latter, during, with all the insanity taking place during the transition.
 
-We know consciousness and subjective experience ultimately must have a physical origin, but we also know the subjective experience of reality is itself not physical. If we simply separate the 
-physical, the universe and all the brain does, from the non-physical, what this results in internally, and force the same logic, that the perception of all physical stimuli requires some way of sensing it, then the brain's 
-state must need a sensory organ as well. Resist any temptations to include the entire range of our subjective experiences and the 'magic' therein, poetry or love or whatever else, from what actually happens - burns are not a 
-property of flames, but a consequence. From a purely functional perspective, it is reasonable to suggest that because the brain creates these intangible pictures of reality, pictures consisting of visuals, audio, smell, temperature, emotion - 
-an agent that actually senses these states, collating all these diverse sources of information and the cryptic mess of electrical discharges, into some coherent picture of reality, which must then be 'available' as an actual 
-picture, rather than a set of properties, like a photograph versus a list of RGB values.
+We know consciousness and subjective experience ultimately must have a physical origin, but we also know the subjective experience of reality is itself not physical. If we simply separate the physical, the universe and all 
+the brain does, from the non-physical, what this results in internally, and force the same logic, that the perception of all physical stimuli requires some way of sensing it, then the brain's state must need a sensory organ 
+as well. Resist any temptations to include the entire range of our subjective experiences and the 'magic' therein, poetry or love or whatever else, from what actually happens - burns are not a property of flames, but a 
+consequence. From a purely functional perspective, it is reasonable to suggest that because the brain creates these intangible pictures of reality, pictures consisting of visuals, audio, smell, temperature, emotion - an agent 
+that actually senses these states, collating all these diverse sources of information and the cryptic mess of electrical discharges, into some coherent picture of reality, which must then be 'available' as an actual picture, 
+rather than a set of properties, like a photograph versus a list of RGB values.
 
 Simultaneously, because the brain is ultimately incharge of nearly everything the body does (ignoring the specifics of the autonomous nervous system, for example, which involves the brain stem and the spine), it is sufficient 
 for the brain to have some mechanism of turning these impulses into a 'known' picture of reality. In other words, a purely non-physical, that is, brain-generated 'sensory' system that can manage this effect will suffice, 
-needing no additional hardware at all, neural or otherwise. 
-The brain, in this view, is comparable to a bare-metal computer, relying only on its internal physical and logical construction to perform actions that are determined by its physical state. The need for operating-systems
-in computing, is identical to the need for something resembling consciousness - a way to sense and interact with the hardware without needing to know the specifics underlying physical events. It must be pointed out that
-conversely, not knowing or understanding the physical events underlying modern computing, or being unable to truly trace them considering the level of complexity here, is no excuse to suggest that hypervisors or operating systems
-are sentient, intelligent, or a part of a unifying God-consciousness of which all virtual-machines are ultimately a part. Recreational discussions on this front are most certainly valuable and entertaining, in the same way philosophy
-treats consciousness, but there is no reason to suggest that consciousness is anything but this front-end for the brain to interact with itself, and with reality, with some convenient abstraction.
+needing no additional hardware at all, neural or otherwise. Note that the claim is not that this is the correct picture of what goes on between the brain's actions and the effects on our subjective experience, but instead,
+that even this oversimplified picture explains everything we observe. Further, in order to determine if this is possible at all, we only need to recognize the existence of software - purely 'abstract' entities with definite
+physical origins, but abstracted to such an extent that direct correlations between the results and the physical causes are practically impossible to identify, even if they exist.
+The brain, in this view, is comparable to a bare-metal computer, relying only on its internal physical and logical construction to perform actions that are 
+determined by its physical state. The need for operating-systems in computing, is identical to the need for something resembling consciousness - a way to sense and interact with the hardware without needing to know the 
+specifics of underlying physical events. It must be pointed out that conversely, not knowing or understanding the physical events underlying modern computing, is not a good reason to suggest that hypervisors or operating 
+systems are conscious, sentient, intelligent, or a part of a unifying God-consciousness of which all virtual-machines are ultimately a part. 
+
+To summarize, consciousness is effectively a 'software' sensory organ. Its sole and entire purpose is to 'sense' the brain's state as a coherent picture collating every aspect of this state. Note that there is absolutely no
+intelligence, self-awareness, or volition to consciousness in this view, and this is justified in the following section.
 
 One obvious question here, is why one is needed. There are certainly a whole mess of retroactive explanations using some evolutionary logic, but the only fact of importance here is that evolution and natural selection do not 
 actually select for the 'best' anything, whether physically or functionally; there is no qualititave comparision between different mutations that result in different behaviors and capacities. All natural selection is, is a 
-matter of what allows an individual to live long enough to reproduce. Further, what happens after reproduction is entirely irrelevant, and the entire process of natural selection simplifies to a race between death and 
-reproduction. Therefore, the traits that persist do not need to actually produce any practical benefits; as long as they do not hurt the population's chances of reproduction. If there are mutations introduced, the individuals with
-mutations that hurt these chances will obviously reproduce less than the ones that do not, but most traits that persist in populations, especially as the context and circumstances diverge from the conditions that favoured those traits, it is possible to have superbly complex traits that offer absolutely no clear benefit.
-In fact, given that it is possible for bare-metal computers to exist, or even purely analog circuitry that can be designed to perform a spectacular range of tasks, it is atleast not necessary to be conscious, to be functional and
-competitive on an evolutionary scale. However, as all mutations that form the core of evolutionary progressions in species, are ultimately arbitrary - mutations are not chosen by the species - once 'some' rudimentary mechanism
-for sensing the state of the brain, it only has to not pose a disadvantage to persist. However, once this sense becomes a trait, it allows for serious jumps in complexity of the underlying computer, in exactly the same way that
-the operating system allows for elegant control of monstrously complicated hardware. In other words, consciousness, while being unnecessary for function and survival, as evident in the vast diversity of organisms that have no brain
-or nervous system to allow for consciousness, 
+matter of what allows an individual to live long enough to reproduce. Further, what happens to the individual after reproduction is entirely irrelevant from this perspective, and the entire process of natural selection 
+simplifies to a race between death and reproduction. Further, the traits that persist do not need to actually produce any practical benefits; as long as they do not hurt the population's chances of reproducing to produce 
+healthy offspring, they will persist. If there are mutations introduced, the individuals with mutations that hurt these chances will reproduce less (whether qualitatively or quantitatively) than the ones that do not, but most 
+traits that persist in populations, especially as the context and circumstances diverge from the conditions that could have favoured those traits, it is possible to have superbly complex traits that offer absolutely no clear 
+benefit. In fact, given that it is possible for bare-metal computers to exist, or even purely analog circuitry that can be designed to perform a wide range of tasks, it is atleast not necessary to be conscious, to be 
+functional and competitive on an evolutionary scale. However, as all mutations that form the core of evolutionary progressions in species, are ultimately arbitrary - mutations are not chosen by the species - once 'some' 
+rudimentary mechanism for sensing the state of the brain emerges, it only has to not pose a disadvantage to persist. On the other hand, the moment this becomes and inheritable trait, it allows for serious jumps in complexity 
+of the underlying computer, in exactly the same way that the operating systems allow for elegant control of monstrously complicated hardware which would most likely be practically impossible otherwise.
+Therefore, the very initial 'why', from an evolutionary perspective, is almost universally "by lucky accident".
+
+We now explore a model that forms a convenient framework for viewing consciousness as a 'convenience' for the brain.
 
 
+2. The monkey in the safe.
 
+As discussed previously, we know the picture of reality that the brain makes up, is absolutely independent of both consciousness (which we have defined as the sense of the brain's internal state) and reality itself. Further, 
+just as every physical stimulus we encounter must first be sensed directly, so must the physical state of the brain. The conscious perception of a self is merely the 'knower' invented to facilitate this process of 'knowing'. 
+This might sound convoluted, but to start with, we can definitely say the brain is 'capable' of inventing this subjective self, so raw processing-power is no concern. In fact, if this 'knower', the subjective self, is seen as 
+the whole identity of a person, stemming from a convenience-construction of the brain, while the typical function involves one identity that forms the center of the individual's life, the brain is actually capable of doing 
+this several times over, with several distinct, and functionally 'complete' identities, as seen in patients with dissociative identity disorder. Schizophrenia, on the other hand, suggests that it is not only possible, but is 
+nearly a rule, that any picture of reality that the brain invents, 'feels' real to the subjective self, as the same hardware that created the picture also created the agent that can perceive it. Crucially, there is absolutely 
+no need for this subjective experience to have any bearing or basis in objective reality to feel subjectively valid, which is why telling a patient with schizophrenia that their particular hallucinations are not 'real' does 
+little to help them, nor does them knowing change the occurence of these hallucinations. That is, this is not a problem of incorrect information - the presence of information that suggests the picture of reality under 
+question is inaccurate, does not actually affect the picture at all. In fact, mental illnesses, especially those that involve one or more functional parts of the brain in overdrive, serve as a reminder of what the hardware is 
+actually capable of, and more importantly, how quickly things go out of control when the hardware malfunctions.
 
+The important thing to note here, is that what is sensed must significantly deviate from what is 'expected' before one can comment on the accuracy of the brain's picture of reality. The brain, and the consciousness that 
+senses it, are operating with the same facts. All the linguistic, imaginative, emotive, and analytical capabilities the brain together created this picture, which is why delusions and deeply held beliefs are rarely 
+self-correctable. (I only say rare because I do not want to rule it out altogether).
 
-
-
-
-
-
-
-
-
-This is comparable to a hypervisor in the context of computing and virtual-machines. The same hardware that runs the virtual machines, and all the processes inside 
-them, also runs the processes that control and manage these. (The specifics of the type of hypervisor is irrelevant for this analogy. Whether bare-metal or hosted, the fact remains, that the same hardware sufficies, whether 
-or not an OS is involved). Again, physically, even though it is theoretically possible to trace every single event that happens in these virtual machines to some exact physical cause in the motherboard, it is unnecessary, 
-and most software engineers in the world do not need to concern themselves with the physical events in the circuitry. 
-
-
-
-
-
-We can see a promising lead forming here: perception requires sensory organs, so like external light requires eyes, and the brain requires neural impulses, the picture of reality the brain has created must also 
-require a sensory organ.
-
-This, I claim, is all consciousness. Effectively a 'software' sensory organ, the exclusive purpose of consciousness is to perceive the internal state of the brain through 'some' abstractions. 
-
-We can track this extreme separation of function to the immediate next 'level'; the picture of reality 
-that the brain makes up are entirely independent of consciousness itself, which we have defined as the 
-awareness of our internal state. If we look at this from the other side, we know the brain has invented 
-some picture of our reality based on the cues it has received from our sensory organs. There must be a way
-for our conscious self to actually have perceived this picture.
-This, is consciousness. Consciousness is effectively a 'software' sensory organ that connects what the brain
-does to what is 'known' as information; the conscious perception of a self is merely the 'knower' invented
-to facilitate this process. This might sound convoluted, but to start with, we can definitely say the brain is
-'capable' of inventing this subjective self, so raw processing-power is no concern. Further, we know that not
-only is the brain capable of elaborate constructions, it is in fact capable of elaborate abstract constructions
-outside of reality; imagination presents with a 'mind's' eye for most people, suggesting the brain can also
-merely pretend like the neural impulses requiered for its construction of the moment, and involve the 
-'perception' of a picture of a reality that does not exist. This 
-there is no short-circuit between the senses and our conscious perception of them, but 
- instead an elaboraThis is a known phenomenon; the perception of the world around us is not necessarily 
- an accurate depiction of what is, but instead the brain's claim of what it believes to be the most 
- likely cause of the electrical impulses it has received from the sensory organs. Consider the following:
-
-Sight is the perception of the light in our surroundings. 
-
-One simplification 
- we can immediately make confidently, is to separate out consciousness from the constellation of 
- capabilities, behaviors and qualities that are entirely unrelated to the phenomenon of 'awareness of an 
- internal experience' itself. For example, instrospection is not a property of consciousness, but instead 
- the but instead, our intelligence, analytical, linguistic, and imaginative capabilities applied in tandem to 
- our own selves, using consciousness, the 'awareness of our internal state' as an instrument to measure 
- our internal condition.
- capabilities applied to this internal state.
-
-
-athe awareness of our internal state, with intelligence, analytical capabilities and language applied to this internal state. 
- We do 
-not want to attach more properties to our view of consciousness unless we need to, because the larger the 
-circle around what we consider consciousness, the harder it is to explain all its myriad aspects. So how 
-simply can we define consciousness, while preserving all properties that are commonly considered part of 
-it? A very good candidate is simply "awareness of our internal state". This definition is vague, and 
-leaves the burden of defining what 'awareness' is, and what constitutes an 'internal state'; but with a 
-strictly colloqual reading, this is an accurate, if incomplete description of what most would agree 
-constitutes consciousness. 
-One might be tempted to get right to defining 'awareness', and 'internal states'. This is, in my view, 
-the precise step where a relatively simply problem blows up into the monstrous intractable question that 
-has tortured our collective minds for millennia; this mystery has created religions and killed billions. So we shall avoid it.
-
-Consider the following: Sight is commonly defined as the power of seeing, a tautological definition
-KConsider this definition as is: "Consciousness is our awareness of our internal state".
-Compare this to: "Sight is the awareness of the light in our surroundings". 
+Consider the following scenario: We have a monkey locked in a safe. This safe is completely isolated from the universe, and has neither the capacity nor the intent to interact with anything outside this safe. Further, the 
+ONLY stimulus available to this monkey is a television screen strapped to its head. The monkey has no control over what the television shows, nor on the volume, nor does it have the capacity to look away. In fact, the ONLY 
+capability this monkey has, is to perceive what the screen says.
 
 
