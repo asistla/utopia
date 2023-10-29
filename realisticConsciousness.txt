@@ -81,7 +81,10 @@ systems are conscious, sentient, intelligent, or a part of a unifying God-consci
 To summarize, consciousness is effectively a 'software' sensory organ. Its sole and entire purpose is to 'sense' the brain's state as a coherent picture collating every aspect of this state. Note that there is absolutely no
 intelligence, self-awareness, or volition to consciousness in this view, and this is justified in the following section.
 
-One obvious question here, is why one is needed. There are certainly a whole mess of retroactive explanations using some evolutionary logic, but the only fact of importance here is that evolution and natural selection do not 
+One obvious question here, is why one is needed. This will be addressed in the final section of this essay. For the time being, noting that how and why, cause and reason, are distinct entites, the cause has a fairly simple
+justification that is no different from the cause of any other trait we possess. 
+To clarify, this is not the same as how it came to be, which has a fairly convenient justification. 
+There are certainly a whole mess of retroactive explanations using some evolutionary logic, but the only fact of importance here is that evolution and natural selection do not 
 actually select for the 'best' anything, whether physically or functionally; there is no qualititave comparision between different mutations that result in different behaviors and capacities. All natural selection is, is a 
 matter of what allows an individual to live long enough to reproduce. Further, what happens to the individual after reproduction is entirely irrelevant from this perspective, and the entire process of natural selection 
 simplifies to a race between death and reproduction. Further, the traits that persist do not need to actually produce any practical benefits; as long as they do not hurt the population's chances of reproducing to produce 
@@ -91,7 +94,7 @@ benefit. In fact, given that it is possible for bare-metal computers to exist, o
 functional and competitive on an evolutionary scale. However, as all mutations that form the core of evolutionary progressions in species, are ultimately arbitrary - mutations are not chosen by the species - once 'some' 
 rudimentary mechanism for sensing the state of the brain emerges, it only has to not pose a disadvantage to persist. On the other hand, the moment this becomes and inheritable trait, it allows for serious jumps in complexity 
 of the underlying computer, in exactly the same way that the operating systems allow for elegant control of monstrously complicated hardware which would most likely be practically impossible otherwise.
-Therefore, the very initial 'why', from an evolutionary perspective, is almost universally "by lucky accident".
+Therefore, the very initial 'how', from an evolutionary perspective, is almost universally "by lucky accident".
 
 We now explore a model that forms a convenient framework for viewing consciousness as a 'convenience' for the brain.
 
@@ -113,8 +116,97 @@ The important thing to note here, is that what is sensed must significantly devi
 senses it, are operating with the same facts. All the linguistic, imaginative, emotive, and analytical capabilities the brain together created this picture, which is why delusions and deeply held beliefs are rarely 
 self-correctable. (I only say rare because I do not want to rule it out altogether).
 
-Consider the following scenario: We have a monkey locked in a safe. This safe is completely isolated from the universe, and has neither the capacity nor the intent to interact with anything outside this safe. Further, the 
-ONLY stimulus available to this monkey is a television screen strapped to its head. The monkey has no control over what the television shows, nor on the volume, nor does it have the capacity to look away. In fact, the ONLY 
-capability this monkey has, is to perceive what the screen says.
+Imagine a monkey in a locked safe. One of the walls has a television screen. This is its ONLY stimulus. It has no other way of interacting with the world outside the safe, and in fact, it has no way of knowing of the
+existence of a world beyond the walls of the safe.
 
+The monkey has NO control over what shows up on the screen. What is displayed on the screen is totally controlled by 'something' the monkey can know nothing about. The monkey can only react to what is on the screen, but its 
+reactions are irrelevant to the operator of the screen. The monkey's job, in essence, is to watch the screen, and 'feel' whatever these pictures result in. If, hypothetically, a question were posed to the 
+monkey-television-operator system, for example, "Pick a number", the operator, by 'some' unknown mechanism, makes a selection, and shows it on the screen. Until this point, even though a response is ready, it is effectively a 
+'non-liquid' asset, and for all intents and purposes, useless. This, however, changes when the monkey sees the screen - the decision that was already made in the past, now 'feels' like a current, and personal decision, because 
+the monkey is only meant to 'feel'. In other words, irrespective of what information is synthesized and/or stored in the brain, it only becomes 'known' when the consciousness-monkey perceives it on the screen.
+
+There is no way to test any of this, atleast not until we can test for the presence consciousness itself. However, we can make some predictions about the implications of this 'dumb' consciousness that can hopefully rule out
+inconsistencies and inaccuracies.
+
+To start with, if consciousness is merely sensory, possessing no intelligence of its own, not only must one be unable to perform any intelligence task 'deliberately', one must be absolutely locked out of any attempts and 
+controlling the brain's tv schedule for the day. Further, because the monkey has no way of knowing a world outside the safe exists, and because it possess no inherent intellect of its own, as far as the monkey is concerned, 
+the television screen is its entire world, looking inwards. Thus, because one has no way of influencing, or even perceiving the processes that actually generate thoughts, and because the conscious self, the monkey in the 
+safe, ONLY sees the thoughts fed to it, and crucially, cannot separate itself from the screen, the conduit through which thoughts appear, its assessment of its own role as not merely the perceiver, but the progenitor of 
+thought, would be understandable. Incorrect, but understandable. Think of a number. Why that number, out of the infinitely many others? If your answer was "I don't know", think about this for a moment. You were posed a simple 
+question; an answer was formed, and if it were a verbal conversation, you would likely have said it aloud too, without ever knowing why that particular number; your brain can hold a conversation, make your tongue and lips do 
+all the right things to form the right words to put its point across, without ever requiring control or even thought, and if you have said something you immediately regreted, ask yourself if you truly were in the drivers seat 
+in the moment you said it, or were you on a sort of 'autopilot', simply watching passively as the words flew out of your mouth, and you had to hear them aloud to realize what you'd just said?. This, I claim, is because the 
+self-aware, conscious aspect of ourselves is simply not involved in this process at all in any capacity beyong an exclusively passive observer. 
+
+The same argument applies to every single thought, emotion, and internal experience we ever have; the pattern of perception of the brain's state after all the requisite processing has been done, is, I claim, without exception 
+- every thought and emotion we have is not a creation of our conscious self, but the perception of the electrochemical activity of the brain. The monkey sees the screen, only the screen, and nothing but the screen; the monkey 
+knows the screen, only the screen, and absolutely nothing except the screen. The feeling of having deliberately and voluntarily generated the thought is merely a cosmetic introduction, and otherwise purely illusory; the 
+brainless consciousness-monkey has no intelligence to even make claims about being the progenitor of these mental events, but because the brain actually is, and the same brain runs the television screen, it is reasonable to 
+suggest that the brain would past "I created these thoughts" on the screen, and the monkey would read, perceive, internalize the exact same sentiment - "I created these thoughts", lacking the intelligent to use the second 
+person to refer to the brain. (This is obviously overly anthropomorphized; there is no monkey in the brain, but there are arguments that can be made to justify this - arguments that even if incorrect, are still consistent 
+with observation). Specifically, there is a finite and non-zero time difference that has been studied in different contexts (motor control, and the difference between the decision to move ones hand and the conscious 
+recognition of this decision and then the actual movement, the findings being the decision happens first, before perception or action), and I believe this straightforward to observe. First, we cannot predict our thoughts even 
+30 seconds in the future, as the operator's programming is a show that starts at birth and ends at death, inextricably linked to its own past experiences, its interpretation of these past experiences, its current 
+circumstances, its interpretation of its current circumstances, and all the errors that pile up at every step of this process. Second, try determining the source of the next thought that pops in your mind; you will find that 
+generally, this is a mystery, but the administration has been set up so well this does not register as a problem at all. If this is indeed true, we must expect intelligence, emotional response, and a persons entire body of 
+thought and internal monologue, to be ultimately beyond their control.
+
+Further, Any realization of ones own shortcomings, and any epiphanies about needing to fix them, are also
+products of the same television operator's whims, and are also beyond their control. If the brain happens to generate thoughts pertaining to self-improvement, this will feel like introspection to the perception-monkey, but 
+this is in reality yet another manifestation of a fairly elaborate and sophisticated setup that consistently makes one feel like they are in control. The monkey is entirely at the mercy of the television operator, and the 
+television operator has the tools to prompt the entire spectrum of human internal experience; love, loss, anger, misery, joy, indifference, sexual arousal - all emotions we feel and are familiar with, but clearly beyond our 
+control.
+
+Further still, if the above is true, any significant change in the brain's psychological behavior, if it is to be achieved without physical or chemical manipulations, requires an external agent or tool to actually affect this 
+change - the monkey has no control over the television, and the brain relies on external cues in combination with its own programming to determine even the broad topics it approaches. Therefore, the only real options 
+available here in order to affect these changes, require either the brain to generate these ideas and initiate these actions, which is purely a matter of chance and circumstance, OR, an external agent to influence said chance 
+an circumstance. For these reasons, external stimuli represent the only direct route to changing psychology, and why it is exceedingly rare for individuals to be able to reverse negative patterns of thought or emotion, 
+obsessions, addictions, and so on. In fact, this is valid even for the most banal mental events we observe; try to compute 37*39 mentally, without a pen and paper, and analyze how this works. I claim that computations of this 
+sort, or analysis in general, involves not actively and consciously 'solving' the problem at hand, but instead waiting until a step presents itself on the screen. Until this point, all one can do is to wait, turning the 
+problem over and around, trying different strategies, different perspectives, none of which are voluntarily chosen, but instead, strictly observed AFTER the brain has produced these ideas. In fact, if the above picture is 
+accurate, it should be strictly impossible to get the brain to do anything at all. (The meaninglessness of this is evident from the sentence itself - there is nothing available to 'get things done' if the brain is left out of 
+this equation - the brain can make itself do things, but it doesn't take requests from the consciousness-mokney. Our conscious self is controlled by the brain, not the other way around)
+ claim what we consider 'intelligence' is actually a measure the brain's ability to generate relevant ideas that fit best given a particular problem, and the rate at which it can do so. Therefore, situations that involve some 
+form of intellectual competition, are essentially like chicken fights - the conscious self has no influence, and you sit there hoping the brain, the chicken, does well. Further, one cannot become more smarter, for the most 
+part atleast; education and practice definitely could lead to improved mental capabilities, but this is again a matter of trying to train the television operator, in the hope that they will now be capable of more accurate 
+programming on the screen - but this is no guarantee, and in fact, is a total failure most of the time. This extension actually applies equally well to all human internal experience, and our general powerlessness against the 
+cruelty of our own brain's emotional and illogical responses to situations that do not deserve it. Anxiety, depression, rage, and other such debilitating (or atleast, result in total loss of control) are known to be a 
+consequence of a combination of neurobiological and psychological causes, and crucially, rarely self-correctable. This is obvious, because the wishes of the conscious self go nowhere - it is not just that they will stay 
+unfulfilled, the fact is there is no one listening - the television screen does not carry the monkey's messages to the operator. If we step back from this line of argument, we can see another aspect of this idea. Because the 
+brain (the operator) is known to be primarily a creature of habit, being essentially a lump of meat with the right hardware at birth, to learn patterns of thought and behavior over the child's growth. This means any further 
+purely psychological (as opposed to chemical or electrical interventions) 'modification' of the operator's behavior, must necessarily come from outside; as far as ones own identity and sense of self is concerned, this 
+'internal monologue' is not the monkey talking to itself, but the monkey reading the operator's internal monologue, and believing it to be its own. Because the operator is the only one talking, any ideas, whether 
+self-destructive or self-constructive, are all part of the operator's endless podcast. The conscious self has no hope of being heard by the operator, let alone being taken seriously, so reconstructions of any learned patterns 
+must originate outside the brain, and must be specifically directed at fixing patterns, disrupting unhealthy patterns that have been reinforced over time without the monkey's participation. The conscious identity is 
+absolutely powerless, so will power, determination, and a genuine will to change oneself, DO NOT exist unless the brain generates them, and the brain will not do so on its own unless supplanted by external mechanisms that 
+directly deal with the operator.
+
+
+3. WHY?
+
+As stated earlier, the cause for the existence of consciousness has a boilerplate explanation. The why, technically, is unnecessary (the universe needs no reason, nor is there anything to reason with), but it is possible to invent
+a perspective within which these behaviors can be more productively understood. A few ideas are suggested here to spur discussions on the back-end of the above described mechanisms. 
+So here is the question: what is the brain supposed to be doing, exactly? 
+ 
+I propose the following: the core duty of the brain is to maximize predictability. There are obvious individual, social and evolutionary advantages to having predictable surroundings, and forms the main justification for the 
+evolution of territorial behavior in animals - theoretically speaking, this marked territory forms the zone of absolute predictability. If this is true, if there is some inherent control system designed to maximize 
+predictability, it must be capable of 1. seek out unpredictable or unknown situations, and 2. make them predictable. In practice, this must manifest as some postive reward for finding such ill-understood situations, and a 
+punishment for avoiding them. I argue, with only the slightest confidence, that boredom and thrill-seeking are the results of this feedback mechanism. We enjoy thrilling, 'scary' situations, enough to actively seek them out - 
+the brain rewards this, and we feel good, as long as the experience remains novel. Once the experience is understood, once the brain knows what happens next, boredom quickly sets in - the brain has figured this situation out, 
+there is no danger, so it must move on to understanding other places that need to be made predictable. Curiosity is therefore hardwired, and so is the maddening irritation that boredom can lead to. The function of the 
+conscious self, then, is simply to 'feel' these rewards and punishments, in conjuction with the consequent physical effects like elevated heart rates or dilated pupils, as the brain itself is incapable of feeling. Further, 
+any attempts to exploit this inherent attraction to the unexpected must either display something truly unexpected, or must insert sufficient 'danger signals' into the known and predictable to get a reaction. The latter has 
+formed the main strategy of news media worldwide; as wars, death, disease and poverty become boring (because the brain has now learnt to expect them), a media house must highlight these horrors more and more aggressively, 
+with more and more graphic detail, to get the brain interested at all. It is a matter of fact that the past decade has seen mushrooming news agencies claiming to cater to every political orientation imaginable. in this 
+competitive landscape, competition is actually for 'attention', and everyone, from news media to instagrammers and tiktokers are fighting for this attention. As each 'new' trend comes by, percolates through social strata and 
+ultimately falls away once it gets boring (like fidget spinners - even fidgety people got bored of them), new ones must constantly strive to be evermore provocative than the previous ones that will no longer have the same 
+effect. More blood, more nudity, more conflict - these are attempts to overload the brains dismissal of "yeah I know this, it's been going on for ages", and make it pay attention again. In the absence of truly 'new' news, 
+this is the only strategy left. The lesson in this argument, if there is one, is not that media today must be forgiven for the shit they push. The lesson is that the current state of our world, the media, and our own 
+reactions to them, is an inevitable consequence of the journey we started thousands of years ago; each machine we built, each road we laid, every invention and discovery to make our lives reliably safe - predictably safe - is 
+truly boring, once the initial rush fades. We are wired to keep seeking the new, and as the amount of 'new' shrinks, we must either find new problems to solve, or get comfortable with the consequences of an entirely 
+predictable life. We will run out of 'new', atleast on our planet. There may be millions of undiscovered species, but that problem will solve itself in a few decades as climate change takes out these specialized species that 
+cannot survive outside a very narrow set of conditions. The effects of climate change will infuse some excitement in many people, I suppose, but I think that would depend on when the start; we are already seeing some global 
+fatigue around discussions related to climate change, for the same reasons - we've been making the same arguments for about thirty years, and we are bored of them. Fifty years from now, we may simply be too bored and detached 
+from reality to save our own lives, like Calhoun's rats. What can you do? The monkey has no control. Even as I write this, my conscious self is merely reading the words as they are typed out - I am not consciously deciding 
+each word - my brain has decided what it wants to say, including this sentence. I am just watching.
 
